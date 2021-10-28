@@ -26,3 +26,12 @@ Source:https://www.kaggle.com/davidcariboo/player-scores?select=players.csv
 - Data Anlysis
 
  This dataset aims to present up-to-date football data down to the level of performance of the players.
+
+# Potential Features and Target Variable
+
+* Appearnece 
+* Goals
+* Assists
+* Minute played
+* Date of birth
+* Position
