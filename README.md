@@ -56,3 +56,4 @@ We used a multiple linear regression analysis because the multiple regression mo
 ### First analysis
 
  ![img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/f61047a04885a3b0895896cc7e75782d7a663c87/Images/img_segment1.png)
+ ![img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/3dc6940de2fcccb8e42dabc305862e51fe37c4c9/Images/img_segment1.png)
