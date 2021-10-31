@@ -8,6 +8,8 @@
 
 In this Project, using multiple linear regression are being estimated market values of the football players in all European teams in the 2018-2019 season.Players from European League will be examined, and we will show the most and the least affecting factors for the market value.
 
+# The reason why we selected this topic?
+
 # Project Objective & Target Audience
 
 Develop an optimal model using Linear regression to predict the performance of the players.
