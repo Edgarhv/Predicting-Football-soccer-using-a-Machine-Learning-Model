@@ -6,7 +6,7 @@
  ![img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/c223bccf8249a93fbd144af998475da9b2bed1ff/CompassionateRespectfulBlesbok-mobile.gif)
 #### Source:https://gfycat.com/compassionaterespectfulblesbok-soccer-world-cup-football-sports
 
-In this Project, using multiple linear regression are being estimated market values of the football players in all European teams in the 2018-2019 season.
+In this Project, using multiple linear regression are being estimated market values of the football players in all European teams in the 2018-2019 season.Players from European League will be examined, and we will show the most and the least affecting factors for the market value.
 
 # Project Objective & Target Audience
 
