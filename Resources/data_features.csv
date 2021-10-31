@@ -1,0 +1,366 @@
+name,transfer_fee,age,team_from,league_from,team_to,market_value,player_id,current_club_id,country_of_birth,country_of_citizenship,position,goals,assists,minutes_played,yellow_cards,red_cards,games,appearances
+Aaron Mooy,9100000,26,Man City,Premier League,Huddersfield,5000000.0,123951,1237,Australia,Australia,Midfield,7,4,5435,8,0,67,67
+Abdou Diallo,28000000,22,1.FSV Mainz 05,1.Bundesliga,Bor. Dortmund,12000000.0,229005,583,France,Senegal,Defender,4,2,5943,7,1,68,68
+Adam Masina,5000000,24,Bologna,Serie A,Watford,7000000.0,286949,1010,Morocco,Morocco,Defender,0,3,4070,14,1,51,51
+Adam Ounas,10000000,20,G. Bordeaux,Ligue 1,SSC Napoli,4000000.0,400485,6195,France,Algeria,Attack,5,1,1120,2,0,39,39
+Adama Diakhaby,10000000,21,Stade Rennais,Ligue 1,Monaco,1500000.0,453594,1110,France,France,Attack,4,6,3262,10,2,78,78
+Adama Diakhaby,10000000,22,Monaco,Ligue 1,Huddersfield,5000000.0,453594,1110,France,France,Attack,4,6,3262,10,2,78,78
+Admir Mehmedi,8000000,26,Bay. Leverkusen,1.Bundesliga,VfL Wolfsburg,3500000.0,66058,82,Jugoslawien (SFR),Switzerland,Attack,10,11,3086,5,0,49,49
+Adnan Januzaj,8500000,22,Man Utd,Premier League,Real Sociedad,7000000.0,177847,681,Belgium,Belgium,Attack,6,10,3481,6,0,59,59
+Adrien Silva,24500000,28,Sporting CP,Liga NOS,Leicester,25000000.0,56810,1038,France,Portugal,Midfield,1,2,2631,10,0,37,37
+Alban Lafont,8500000,19,Toulouse,Ligue 1,Fiorentina,18000000.0,357117,995,Burkina Faso,France,Goalkeeper,0,0,6795,6,0,76,76
+Aleksandar Mitrovic,20200000,23,Newcastle,Premier League,Fulham,15000000.0,51152,931,Yugoslavia (Republic),Serbia,Attack,13,4,3629,7,0,45,45
+Aleksandr Golovin,30000000,22,CSKA Moscow,Premier Liga,Monaco,25000000.0,263918,162,Russia,Russia,Midfield,8,10,5825,18,1,72,72
+Alessandro Bastoni,8000000,18,Atalanta,Serie A,Inter,1500000.0,315853,46,Italy,Italy,Defender,1,1,1862,2,0,29,29
+Alex Meret,22000000,21,Udinese Calcio,Serie A,SSC Napoli,12000000.0,240414,6195,Italy,Italy,Goalkeeper,0,0,2940,0,1,34,34
+Alex Pritchard,12350000,24,Norwich,Championship,Huddersfield,5000000.0,200777,1110,England,England,Midfield,3,1,3138,3,0,45,45
+Alexandre Lacazette,53000000,26,Olympique Lyon,Ligue 1,Arsenal,40000000.0,93720,11,France,France,Attack,36,16,5972,5,1,86,86
+Alireza Jahanbakhsh,19000000,24,AZ Alkmaar,Eredivisie,Brighton,18000000.0,213268,234,Iran,Iran,Attack,22,14,4426,8,0,59,59
+Alisson,62500000,25,AS Roma,Serie A,Liverpool,60000000.0,105470,31,Brazil,Brazil,Goalkeeper,0,1,9000,2,0,100,100
+Alphonso Davies,10000000,18,Vancouver, Canada,Bayern Munich ,800000.0,424204,27,Ghana,Canada,Defender,1,0,74,1,0,6,6
+Amine Harit,8000000,20,FC Nantes,Ligue 1,FC Schalke 04,2000000.0,372711,244,France,Morocco,Midfield,5,7,3796,5,0,60,60
+Andre Gray,20400000,26,Burnley,Premier League,Watford,10000000.0,120565,1010,England,Jamaica,Attack,12,5,2876,3,0,61,61
+Andrea Conti,24000000,23,Atalanta,Serie A,AC Milan,10000000.0,111227,5,Italy,Italy,Defender,0,3,895,3,0,19,19
+Andrea Favilli,7500000,21,Ascoli,Serie B,Juventus,4000000.0,340151,276,Italy,Italy,Attack,0,1,165,0,0,6,6
+Andrew Robertson,9000000,23,Hull City,Championship,Liverpool,7000000.0,234803,31,Scotland,Scotland,Defender,1,18,6800,10,0,77,77
+Andriy Lunin,8500000,19,Zorya Lugansk,Premier Liga,Real Madrid,3500000.0,404839,418,Ukraine,Ukraine,Goalkeeper,0,0,2734,1,0,31,31
+Andriy Yarmolenko,25000000,27,Dynamo Kyiv,Premier Liga,Bor. Dortmund,18000000.0,69015,379,UdSSR,Ukraine,Attack,20,14,5198,6,0,82,82
+Andriy Yarmolenko,20000000,28,Bor. Dortmund,1.Bundesliga,West Ham,23000000.0,69015,379,UdSSR,Ukraine,Attack,20,14,5198,6,0,82,82
+Angus Gunn,11300000,22,Man City,Premier League,Southampton,2000000.0,201574,1123,England,England,Goalkeeper,0,0,1650,0,0,18,18
+Ante Coric,6000000,21,Dinamo Zagreb,1.HNL,AS Roma,7500000.0,96630,1426,Croatia,Croatia,Midfield,0,0,48,0,0,3,3
+Antonino La Gumina,9000000,22,US Palermo,Serie B,FC Empoli,2000000.0,287876,1038,Italy,Italy,Attack,2,2,1178,1,0,23,23
+Antonio Barreca,10000000,23,Torino,Serie A,Monaco,3500000.0,241889,430,Italy,Italy,Defender,0,2,1151,1,1,18,18
+Armando Izzo,8000000,26,Genoa,Serie A,Torino,8500000.0,32113,416,Italy,Italy,Defender,5,1,4910,8,0,56,56
+Arthur,31000000,21,Grêmio,Série A,FC Barcelona,30000000.0,517518,982,Brazil,Brazil,0,0,2,2883,3,0,49,49
+Arthur,31000000,21,Grêmio,Série A,FC Barcelona,30000000.0,362842,506,Brazil,Brazil,Midfield,0,2,2883,3,0,49,49
+Asmir Begovic,11500000,30,Chelsea,Premier League,Bournemouth,8000000.0,33873,29,Jugoslawien (SFR),Bosnia-Herzegovina,Goalkeeper,0,0,5580,2,0,62,62
+Aymeric Laporte,65000000,23,Athletic Bilbao,LaLiga,Man City,25000000.0,176553,281,France,Spain,Defender,5,4,7759,11,0,88,88
+Badou Ndiaye,16000000,27,Galatasaray,Süper Lig,Stoke City,7000000.0,211325,605,Senegal,Senegal,Midfield,12,16,10082,38,2,120,120
+Badou Ndiaye,7500000,26,Osmanlispor,Süper Lig,Galatasaray,5000000.0,211325,605,Senegal,Senegal,Midfield,12,16,10082,38,2,120,120
+Benik Afobe,13500000,25,Wolves,Premier League,Stoke City,10000000.0,110858,449,England,DR Congo,Attack,2,0,1360,0,0,40,40
+Benik Afobe,11400000,25,Bournemouth,Premier League,Wolves,10000000.0,110858,449,England,DR Congo,Attack,2,0,1360,0,0,40,40
+Benjamin Mendy,57500000,23,Monaco,Ligue 1,Man City,13000000.0,157495,281,France,France,Defender,0,6,1642,3,0,22,22
+Bernardo,10000000,23,RB Leipzig,1.Bundesliga,Brighton,6000000.0,364258,1237,Brazil,Brazil,Defender,1,2,3690,6,0,50,50
+Bernardo Silva,50000000,22,Monaco,Ligue 1,Man City,40000000.0,241641,281,Portugal,Portugal,Midfield,20,20,6271,4,0,97,97
+Bernd Leno,25000000,26,Bay. Leverkusen,1.Bundesliga,Arsenal,20000000.0,72476,11,Germany,Germany,Goalkeeper,0,0,6675,1,0,74,74
+Blaise Matuidi,20000000,30,Paris SG,Ligue 1,Juventus,30000000.0,33923,506,France,France,Midfield,7,4,6528,12,0,90,90
+Bobby Reid,11350000,25,Bristol City,Championship,Cardiff,3000000.0,186186,931,England,Jamaica,Midfield,5,3,1512,0,0,28,28
+Borja Iglesias,10000000,25,Celta de Vigo,LaLiga,Espanyol,1000000.0,278359,150,Spain,Spain,Attack,22,4,3589,5,0,44,44
+Borna Sosa,6000000,20,Dinamo Zagreb,1.HNL,VfB Stuttgart,1750000.0,293194,79,Croatia,Croatia,Defender,0,1,614,3,0,12,12
+Bremer,5800000,21,Atlético-MG,Série A,Torino,1000000.0,516716,416,Brazil,Brazil,Defender,0,2,384,1,0,8,8
+Bruma,13000000,22,Galatasaray,Süper Lig,RB Leipzig,11000000.0,139396,383,Guinea-Bissau,Portugal,Attack,12,5,4141,3,0,70,70
+Bruno Fernandes,9690000,22,Sampdoria,Serie A,Sporting CP,7500000.0,240306,985,Portugal,Portugal,Midfield,43,33,8360,26,0,97,97
+Bruno Martins Indi,7700000,25,FC Porto,Liga NOS,Stoke City,11000000.0,112052,1090,Portugal,Netherlands,Defender,0,0,1426,4,0,19,19
+Bruno Peres,12500000,27,Torino,Serie A,AS Roma,11000000.0,148751,449,Brazil,Brazil,Defender,0,0,1706,3,0,25,25
+Bryan Cristante,5000000,23,Benfica,Liga NOS,Atalanta,25000000.0,199248,12,Italy,Italy,Midfield,16,7,6820,15,0,91,91
+Cenk Tosun,22500000,26,Besiktas,Süper Lig,Everton,10500000.0,45671,29,Germany,Turkey,Attack,21,6,3749,5,0,63,63
+Chicharito,17800000,29,Bay. Leverkusen,1.Bundesliga,West Ham,18000000.0,50935,379,Mexico,Mexico,Attack,16,3,3140,5,0,58,58
+Chris Wood,16400000,25,Leeds,Championship,Burnley,6000000.0,108725,1132,New Zealand,New Zealand,Attack,23,4,4657,3,0,70,70
+Christian Atsu,7500000,25,Chelsea,Premier League,Newcastle,5000000.0,186997,762,Ghana,Ghana,Attack,3,2,3360,3,0,57,57
+Christian Cueva,8000000,26,São Paulo,Série A,Krasnodar,3000000.0,95280,19789,Peru,Peru,Midfield,1,1,932,1,0,23,23
+Corentin Tolisso,41500000,22,Olympique Lyon,Ligue 1,Bayern Munich ,22000000.0,190393,27,France,France,Midfield,11,7,2465,5,0,44,44
+Cristiano Piccini,8000000,25,Sporting CP,Liga NOS,Valencia CF,7500000.0,163086,1049,Italy,Italy,Defender,1,3,6191,13,0,76,76
+Cristiano Ronaldo,117000000,33,Real Madrid,LaLiga,Juventus,100000000.0,8198,985,Portugal,Portugal,Attack,72,18,7324,9,1,87,87
+Dalbert,20000000,23,OGC Nice,Ligue 1,Inter,5000000.0,312862,1390,Brazil,Brazil,Defender,1,1,1520,2,0,27,27
+Daley Blind,16000000,28,Man Utd,Premier League,AFC Ajax,18000000.0,12282,610,Netherlands,Netherlands,Defender,9,6,6145,4,0,74,74
+Dani Ceballos,16500000,20,Real Betis,LaLiga,Real Madrid,10000000.0,319745,418,Spain,Spain,Midfield,5,2,2826,5,0,56,56
+Daniel Ginczek,14000000,27,VfB Stuttgart,1.Bundesliga,VfL Wolfsburg,3500000.0,79501,82,Germany,Germany,Attack,15,5,3128,7,0,51,51
+Daniel Wass,6000000,29,Celta de Vigo,LaLiga,Valencia CF,15000000.0,63463,1049,Denmark,Denmark,Midfield,6,16,6823,9,0,89,89
+Danilo,30000000,26,Real Madrid,LaLiga,Man City,16000000.0,51232,589,Brazil,Belgium,Midfield,14,8,21002,54,0,290,290
+Danilo,30000000,26,Real Madrid,LaLiga,Man City,16000000.0,32816,1025,Brazil,Brazil,Defender,14,8,21002,54,0,290,290
+Danilo,30000000,26,Real Madrid,LaLiga,Man City,16000000.0,145707,506,Brazil,Brazil,Defender,14,8,21002,54,0,290,290
+Danilo,10000000,22,Braga,Liga NOS,OGC Nice,7000000.0,51232,589,Brazil,Belgium,Midfield,14,8,21002,54,0,290,290
+Danilo,10000000,22,Braga,Liga NOS,OGC Nice,7000000.0,32816,1025,Brazil,Brazil,Defender,14,8,21002,54,0,290,290
+Danilo,10000000,22,Braga,Liga NOS,OGC Nice,7000000.0,145707,506,Brazil,Brazil,Defender,14,8,21002,54,0,290,290
+Danny Drinkwater,37900000,27,Leicester,Premier League,Chelsea,9000000.0,73491,10484,England,England,Midfield,1,0,811,0,0,19,19
+Danny Ward,14000000,25,Liverpool,Premier League,Leicester,2500000.0,124172,603,England,England,Attack,1,0,920,0,0,20,20
+Danny Ward,14000000,25,Liverpool,Premier League,Leicester,2500000.0,203026,1003,Wales,Wales,Goalkeeper,1,0,920,0,0,20,20
+David Brooks,11300000,20,Sheffield Utd.,Championship,Bournemouth,5000000.0,277033,989,England,Wales,Attack,7,5,2371,3,0,32,32
+Davide Santon,9500000,27,Inter,Serie A,AS Roma,3000000.0,84344,12,Italy,Italy,Defender,0,3,2098,2,0,36,36
+Davide Zappacosta,25000000,25,Torino,Serie A,Chelsea,8500000.0,173859,800,Italy,Italy,Defender,2,3,2807,3,0,49,49
+Davie Selke,8000000,22,RB Leipzig,1.Bundesliga,Hertha BSC,6000000.0,178459,44,Germany,Germany,Attack,18,10,4066,10,0,63,63
+Davy Klaassen,27000000,24,AFC Ajax,Eredivisie,Everton,18000000.0,182932,610,Netherlands,Netherlands,Midfield,16,14,8078,14,0,106,106
+Davy Klaassen,13500000,25,Everton,Premier League,Werder Bremen,15000000.0,182932,610,Netherlands,Netherlands,Midfield,16,14,8078,14,0,106,106
+Denis Zakaria,12000000,20,BSC Young Boys,Super League,Bor. M'gladbach,4000000.0,334526,18,Switzerland,Switzerland,Midfield,6,3,4523,19,0,65,65
+Denzel Dumfries,5500000,22,Heerenveen,Eredivisie,PSV Eindhoven,4000000.0,321528,46,Netherlands,Netherlands,Defender,7,14,7140,13,0,81,81
+Diafra Sakho,10000000,28,West Ham,Premier League,Stade Rennais,8000000.0,120610,273,Senegal,Senegal,Attack,9,2,2753,5,1,52,52
+Diego Costa,66000000,29,Chelsea,Premier League,Atlético Madrid,50000000.0,44779,13,Brazil,Spain,Attack,12,8,3145,17,1,44,44
+Diego Falcinelli,10000000,27,Sassuolo,Serie A,Bologna,3800000.0,119115,1025,Italy,Italy,Attack,4,2,2811,1,0,52,52
+Diego Llorente,7000000,23,Real Madrid,LaLiga,Real Sociedad,7500000.0,246291,399,Spain,Spain,Defender,7,0,4845,17,0,57,57
+Diego Rico,12000000,25,CD Leganés,LaLiga,Bournemouth,2500000.0,249513,681,Spain,Spain,Defender,3,2,3654,13,0,48,48
+Diego Rolan,6000000,25,G. Bordeaux,Ligue 1,Dep. La Coruña,3500000.0,193938,1108,Uruguay,Uruguay,Attack,5,0,2634,1,0,44,44
+Diogo Dalot,22000000,19,FC Porto,Liga NOS,Man Utd,15000000.0,357147,985,Portugal,Portugal,Defender,1,5,1845,4,0,28,28
+Diogo Jota,14000000,21,Atlético Madrid,LaLiga,Wolves,12000000.0,340950,31,Portugal,Portugal,Attack,10,5,2492,12,0,35,35
+Douglas Costa,40000000,27,Bayern Munich ,1.Bundesliga,Juventus,55000000.0,75615,27,Brazil,Brazil,Attack,7,13,3883,5,1,72,72
+Dusan Tadic,11400000,29,Southampton,Premier League,AFC Ajax,15000000.0,36139,610,Jugoslawien (SFR),Serbia,Attack,45,26,7788,10,0,94,94
+Ederson,40000000,23,Benfica,Liga NOS,Man City,22000000.0,238223,281,Brazil,Brazil,Goalkeeper,0,2,8445,4,0,94,94
+Emanuel Mammana,16000000,21,Olympique Lyon,Ligue 1,Zenit S-Pb,7000000.0,275512,41231,Argentina,Argentina,Defender,0,1,3059,3,0,38,38
+Emerson,20000000,23,AS Roma,Serie A,Chelsea,14000000.0,181778,1041,Brazil,Italy,Defender,2,3,2544,2,0,33,33
+Emiliano Rigoni,9000000,24,Independiente,Primera División,Zenit S-Pb,7000000.0,282544,1531,Argentina,Argentina,Attack,12,8,3238,9,0,54,54
+Emre Mor,13000000,20,Bor. Dortmund,1.Bundesliga,Celta de Vigo,5000000.0,283223,6646,Denmark,Turkey,Attack,1,3,1411,5,0,39,39
+Fabinho,45000000,24,Monaco,Ligue 1,Liverpool,45000000.0,225693,31,Brazil,Brazil,Midfield,8,5,6427,20,0,80,80
+Fabinho,45000000,24,Monaco,Ligue 1,Liverpool,45000000.0,661284,55686,Brazil,Brazil,Midfield,8,5,6427,20,0,80,80
+Fabio Borini,5500000,27,Sunderland,League One,AC Milan,7000000.0,96754,6646,Italy,Italy,Attack,8,6,3827,10,0,72,72
+Fabri,6000000,30,Besiktas,Süper Lig,Fulham,4000000.0,45882,931,Spain,Spain,Goalkeeper,0,0,3780,1,0,42,42
+Federico Bernardeschi,40000000,23,Fiorentina,Serie A,Juventus,30000000.0,197300,506,Italy,Italy,Attack,8,10,3314,12,1,70,70
+Federico Di Francesco,10000000,24,Bologna,Serie A,Sassuolo,3500000.0,38607,749,Italy,Italy,Attack,3,6,2869,6,0,46,46
+Federico Dimarco,7000000,20,FC Sion,Super League,Inter,2000000.0,198116,46,Italy,Italy,Defender,1,0,963,4,0,14,14
+Federico Santander,6000000,27,FC Copenhagen,Superligaen,Bologna,2000000.0,99180,1025,Paraguay,Paraguay,Attack,15,5,3253,7,0,51,51
+Felipe Anderson,38000000,25,Lazio,Serie A,West Ham,30000000.0,159372,398,Brazil,Brazil,Attack,17,14,4903,3,0,70,70
+Felipe Vizeu,5000000,21,Flamengo,Série A,Udinese Calcio,1500000.0,425462,3725,Brazil,Brazil,Attack,0,0,27,0,0,5,5
+Fernando Llorente,15100000,32,Swansea,Premier League,Spurs,6000000.0,35564,410,Spain,Spain,Attack,8,6,1673,3,0,58,58
+Filippo Romagna,7600000,20,Juventus,Serie A,Cagliari Calcio,1000000.0,256678,6574,Italy,Italy,Defender,0,0,3722,2,0,45,45
+Firmin Mubele,5000000,24,Stade Rennais,Ligue 1,Toulouse,6000000.0,265504,415,Zaire,DR Congo,Attack,7,2,2046,1,0,45,45
+Florent Hadergjonaj,5000000,23,FC Ingolstadt,2.Bundesliga,Huddersfield,5000000.0,238809,10484,Switzerland,Kosovo,Defender,0,1,3602,4,0,48,48
+Florian Lejeune,10000000,26,SD Eibar,LaLiga,Newcastle,5000000.0,127108,1108,France,France,Defender,0,2,3159,4,0,36,36
+Florian Thauvin,11000000,24,Newcastle,Premier League,Marseille,18000000.0,184892,244,France,France,Attack,44,24,6747,16,1,85,85
+Florin Andone,6000000,25,Dep. La Coruña,LaLiga2,Brighton,6000000.0,177065,2687,Romania,Romania,Attack,9,3,2507,11,0,53,53
+Francesco Acerbi,10000000,30,Sassuolo,Serie A,Lazio,10000000.0,131075,398,Italy,Italy,Defender,4,1,8200,11,0,91,91
+Francis Coquelin,14000000,26,Arsenal,Premier League,Valencia CF,12000000.0,74869,1050,France,France,Midfield,1,2,4338,13,0,66,66
+Fred,59000000,25,Shakhtar D.,Premier Liga,Man Utd,32000000.0,191614,985,Brazil,Brazil,Midfield,5,5,3888,16,0,51,51
+Gabriel Paulista,11000000,26,Arsenal,Premier League,Valencia CF,13000000.0,149498,1049,Brazil,Brazil,Defender,0,2,7167,15,0,83,83
+Geoffrey Kondogbia,25000000,25,Inter,Serie A,Valencia CF,30000000.0,127189,13,France,Central African Republic,Midfield,5,6,5033,21,0,65,65
+Gerard Deulofeu,12000000,23,Everton,Premier League,FC Barcelona,12000000.0,129476,410,Spain,Spain,Attack,26,14,6824,8,0,108,108
+Gerard Deulofeu,13000000,24,FC Barcelona,LaLiga,Watford,14000000.0,129476,410,Spain,Spain,Attack,26,14,6824,8,0,108,108
+Gerard Moreno,20000000,26,Espanyol,LaLiga,Villarreal CF,20000000.0,177467,1050,Spain,Spain,Attack,32,5,6972,12,0,93,93
+Giangiacomo Magnani,5000000,22,Juventus,Serie A,Sassuolo,600000.0,310458,276,Italy,Italy,Defender,0,2,3568,6,0,44,44
+Giangiacomo Magnani,5000000,22,Perugia,Serie B,Juventus,600000.0,310458,276,Italy,Italy,Defender,0,2,3568,6,0,44,44
+Gianluca Caprari,15000000,23,Inter,Serie A,Sampdoria,6000000.0,146752,276,Italy,Italy,Attack,13,3,3225,7,0,61,61
+Gianluca Lapadula,11000000,28,AC Milan,Serie A,Genoa,7000000.0,130394,4171,Italy,Peru,Attack,8,0,2037,5,0,38,38
+Giovanni Simeone,15000000,22,Genoa,Serie A,Fiorentina,10000000.0,282388,276,Spain,Argentina,Attack,23,8,5747,5,0,81,81
+Giuliano,7000000,27,Zenit S-Pb,Premier Liga,Fenerbahce,9000000.0,54375,6890,Brazil,Brazil,Midfield,15,5,2945,0,0,34,34
+Gonzalo Castro,5000000,31,Bor. Dortmund,1.Bundesliga,VfB Stuttgart,8000000.0,28947,79,Germany,Germany,Midfield,3,7,3591,8,0,54,54
+Guido Carrillo,22000000,26,Monaco,Ligue 1,Southampton,6000000.0,184672,1531,Argentina,Argentina,Attack,10,2,3016,5,0,60,60
+Guido Pizarro,8700000,27,Tigres UANL,Liga MX Clausura,Sevilla FC,4000000.0,105899,368,Argentina,Argentina,Midfield,4,0,5150,24,0,80,80
+Guido Pizarro,8700000,28,Sevilla FC,LaLiga,Tigres UANL,7500000.0,105899,368,Argentina,Argentina,Midfield,4,0,5150,24,0,80,80
+Guilherme Arana,11000000,20,Corinthians,Série A,Sevilla FC,10000000.0,346766,800,Brazil,Brazil,Defender,2,3,1784,5,0,25,25
+Gylfi Sigurdsson,49400000,27,Swansea,Premier League,Everton,25000000.0,90466,29,Iceland,Iceland,Midfield,19,11,5855,6,0,71,71
+Hakan Calhanoglu,22000000,23,Bay. Leverkusen,1.Bundesliga,AC Milan,20000000.0,126414,46,Germany,Turkey,Midfield,12,25,6706,13,0,91,91
+Harry Maguire,13700000,24,Hull City,Championship,Leicester,8000000.0,177907,985,England,England,Defender,6,3,6400,14,1,73,73
+Havard Nordtveit,8000000,27,West Ham,Premier League,TSG Hoffenheim,5000000.0,42234,533,Norway,Norway,Defender,1,2,2515,4,0,39,39
+Henry Onyekuru,8000000,20,KAS Eupen,Jupiler Pro League,Everton,7000000.0,380415,683,Nigeria,Nigeria,Attack,23,5,4809,12,0,63,63
+Hirving Lozano,8000000,21,CF Pachuca,Liga MX Clausura,PSV Eindhoven,6500000.0,316889,6195,Mexico,Mexico,Attack,41,20,6171,11,2,76,76
+Ibrahim Amadou,15000000,25,LOSC Lille,Ligue 1,Sevilla FC,3500000.0,205503,368,Cameroon,France,Midfield,0,1,4150,6,0,62,62
+Ignacio Camacho,10000000,27,Málaga CF,LaLiga,VfL Wolfsburg,10000000.0,58874,82,Spain,Spain,Midfield,1,0,1604,4,0,19,19
+Ignacio Pussetto,8000000,22,Huracán,Primera División,Udinese Calcio,7000000.0,283528,410,Argentina,Argentina,Attack,4,5,2224,8,0,36,36
+Ishak Belfodil,5500000,26,Standard Liège,Jupiler Pro League,TSG Hoffenheim,5500000.0,111039,44,Algeria,Algeria,Attack,23,7,3860,5,0,66,66
+Issa Diop,25000000,21,Toulouse,Ligue 1,West Ham,22000000.0,272622,379,France,France,Defender,5,1,6300,12,0,70,70
+Jack Cork,9100000,28,Swansea,Premier League,Burnley,5000000.0,40613,1132,England,England,Midfield,6,4,7295,13,0,83,83
+Jacob Murphy,11300000,22,Norwich,Championship,Newcastle,1000000.0,199527,762,England,England,Attack,1,2,1579,0,0,36,36
+Jairo Riedewald,9000000,20,AFC Ajax,Eredivisie,Crystal Palace,5000000.0,241481,873,Netherlands,Netherlands,Midfield,0,1,807,0,0,17,17
+James Maddison,25000000,21,Norwich,Championship,Leicester,10000000.0,294057,1003,England,England,Midfield,7,7,2886,5,0,37,37
+Jannik Vestergaard,25000000,25,Bor. M'gladbach,1.Bundesliga,Southampton,14000000.0,99331,1003,Denmark,Denmark,Defender,4,0,5180,7,0,58,58
+Jasmin Kurtic,4800000,29,Atalanta,Serie A,SPAL,5000000.0,85825,1091,Jugoslawien (SFR),Slovenia,Midfield,9,5,4869,17,1,66,66
+Javier Pastore,24700000,29,Paris SG,Ligue 1,AS Roma,15000000.0,55215,1531,Argentina,Argentina,Midfield,8,7,2203,2,0,45,45
+Jens Odgaard,5000000,19,Inter,Serie A,Sassuolo,800000.0,345590,235,Denmark,Denmark,Attack,0,0,15,0,0,1,1
+Johan Mojica,5000000,25,Rayo Vallecano,LaLiga,Girona FC,4000000.0,262939,1531,Colombia,Colombia,Defender,1,4,2321,6,0,33,33
+John Anthony Brooks,17000000,24,Hertha BSC,1.Bundesliga,VfL Wolfsburg,14000000.0,124732,82,Germany,United States,Defender,3,3,3646,9,0,42,42
+Jonathan Viera,11000000,28,UD Las Palmas,LaLiga,BJ Sinobo Guoan,8000000.0,153238,472,Spain,Spain,Midfield,4,5,2174,5,0,25,25
+Jonathas,9000000,28,Rubin Kazan,Premier Liga,Hannover 96,7000000.0,58345,42,Brazil,Brazil,Attack,10,4,1520,8,0,26,26
+Jordan Amavi,10000000,24,Aston Villa,Championship,Marseille,16000000.0,241229,244,France,France,Defender,0,9,5625,19,3,70,70
+Jordan Hugill,10200000,25,Preston NE,Championship,West Ham,3000000.0,291544,379,England,England,Attack,3,0,290,1,0,7,7
+Jordan Pickford,28500000,23,Sunderland,Championship,Everton,15000000.0,130164,29,England,England,Goalkeeper,0,0,7470,1,0,83,83
+Jordan Siebatcheu,9000000,22,Reims,Ligue 1,Stade Rennais,2500000.0,355369,273,United States,United States,Attack,4,1,784,0,0,18,18
+Jordan Veretout,7000000,24,Aston Villa,Championship,Fiorentina,9000000.0,164771,12,France,France,Midfield,15,4,6698,24,1,75,75
+Jorginho,57000000,26,SSC Napoli,Serie A,Chelsea,50000000.0,512356,2420,Portugal,Portugal,Defender,10,6,8499,15,0,117,117
+Jorginho,57000000,26,SSC Napoli,Serie A,Chelsea,50000000.0,277111,618,Guinea-Bissau,Guinea-Bissau,Attack,10,6,8499,15,0,117,117
+Jorginho,57000000,26,SSC Napoli,Serie A,Chelsea,50000000.0,102017,631,Brazil,Italy,Midfield,10,6,8499,15,0,117,117
+Joris Gnagnon,15000000,21,Stade Rennais,Ligue 1,Sevilla FC,15000000.0,378954,368,France,France,Defender,2,1,4173,5,0,52,52
+Josh Murphy,11400000,23,Norwich,Championship,Cardiff,1500000.0,199528,603,England,England,Attack,3,2,1824,2,0,29,29
+Juan Cuadrado,20000000,29,Chelsea,Premier League,Juventus,25000000.0,91970,506,Colombia,Colombia,Defender,6,11,3470,11,0,52,52
+Juan Jesus,8000000,26,Inter,Serie A,AS Roma,7500000.0,121985,6195,Brazil,Brazil,Defender,1,0,3884,10,1,53,53
+Justin Kluivert,17250000,19,AFC Ajax,Eredivisie,AS Roma,15000000.0,330659,417,Netherlands,Netherlands,Attack,13,13,4398,6,0,70,70
+Karl Toko Ekambi,18000000,25,SCO Angers,Ligue 1,Villarreal CF,18000000.0,315110,1041,France,Cameroon,Attack,35,12,5794,9,0,80,80
+Kasim Adams,8000000,23,BSC Young Boys,Super League,TSG Hoffenheim,8500000.0,263801,533,Ghana,Ghana,Defender,0,1,1136,8,0,16,16
+Kelechi Iheanacho,27700000,20,Man City,Premier League,Leicester,15000000.0,295330,1003,Nigeria,Nigeria,Attack,7,8,2113,5,0,57,57
+Kevin Kampl,20000000,26,Bay. Leverkusen,1.Bundesliga,RB Leipzig,15000000.0,53418,23826,Germany,Slovenia,Midfield,4,13,6159,9,0,79,79
+Kevin Wimmer,19400000,24,Spurs,Premier League,Stoke City,7000000.0,122675,29228,Austria,Austria,Defender,1,0,3270,10,0,42,42
+Khouma Babacar,9000000,25,Fiorentina,Serie A,Sassuolo,8000000.0,124902,11282,Senegal,Senegal,Attack,14,4,2861,1,0,62,62
+Kieran Gibbs,7500000,27,Arsenal,Premier League,West Brom,10000000.0,44792,984,England,England,Defender,0,2,2920,3,0,34,34
+Kingsley Coman,21000000,21,Juventus,Serie A,Bayern Munich ,20000000.0,243714,27,France,France,Attack,17,14,3771,3,0,63,63
+Konrad Laimer,7000000,20,RB Salzburg,Bundesliga,RB Leipzig,8000000.0,223967,23826,Austria,Austria,Midfield,2,5,4659,13,0,72,72
+Konstantinos Mitroglou,15000000,29,Benfica,Liga NOS,Marseille,12000000.0,34944,605,Greece,Greece,Attack,13,1,2311,4,0,52,52
+Kyle Bartley,4500000,27,Swansea,Championship,West Brom,3500000.0,67421,984,England,England,Defender,0,0,316,2,0,6,6
+Kyle Walker,52700000,27,Spurs,Premier League,Man City,30000000.0,95424,281,England,England,Defender,2,8,7587,10,0,92,92
+Landry Dimata,10000000,19,KV Oostende,Jupiler Pro League,VfL Wolfsburg,6500000.0,311489,714,DR Congo,Belgium,Attack,13,5,2754,3,0,45,45
+Leandro Paredes,23000000,23,AS Roma,Serie A,Zenit S-Pb,13000000.0,166237,583,Argentina,Argentina,Midfield,10,17,6102,28,0,75,75
+Leonardo Bittencourt,6000000,24,1. FC Köln,2.Bundesliga,TSG Hoffenheim,6000000.0,93844,86,Germany,Germany,Midfield,7,9,3294,5,0,54,54
+Leonardo Bonucci,42000000,30,Juventus,Serie A,AC Milan,45000000.0,39983,506,Italy,Italy,Defender,5,4,8051,8,1,92,92
+Leonardo Pavoletti,10000000,29,SSC Napoli,Serie A,Cagliari Calcio,9000000.0,64793,1390,Italy,Italy,Attack,29,1,5614,14,0,67,67
+Lewis Grabban,6800000,30,Bournemouth,Premier League,Nottm Forest,3000000.0,35413,989,England,Jamaica,Attack,0,0,45,0,0,1,1
+Lorenzo Pellegrini,10000000,21,Sassuolo,Serie A,AS Roma,12000000.0,286297,12,Italy,Italy,Midfield,7,11,4476,10,1,70,70
+Luca Waldschmidt,5000000,22,Hamburger SV,2.Bundesliga,SC Freiburg,2500000.0,196095,82,Germany,Germany,Attack,10,5,2688,2,0,54,54
+Lucas Alario,24000000,24,River Plate,Primera División,Bay. Leverkusen,12000000.0,193782,15,Argentina,Argentina,Attack,24,8,3502,5,1,62,62
+Lucas Biglia,17000000,31,Lazio,Serie A,AC Milan,20000000.0,26721,6646,Argentina,Argentina,Midfield,2,1,4137,9,0,56,56
+Lucas Castro,6500000,29,Chievo Verona,Serie A,Cagliari Calcio,7000000.0,105892,3840,Argentina,Argentina,Midfield,4,6,2980,4,0,38,38
+Lucas Digne,20200000,25,FC Barcelona,LaLiga,Everton,15000000.0,126664,29,France,France,Defender,5,7,4393,9,1,56,56
+Lucas Moura,28400000,25,Paris SG,Ligue 1,Spurs,28000000.0,77100,148,Brazil,Brazil,Attack,16,3,3282,4,0,59,59
+Lucas Torreira,30000000,22,Sampdoria,Serie A,Arsenal,30000000.0,318077,430,Uruguay,Uruguay,Midfield,6,5,6454,13,1,87,87
+Luis Muriel,21500000,26,Sampdoria,Serie A,Sevilla FC,17000000.0,119228,800,Colombia,Colombia,Attack,22,9,4974,9,0,88,88
+Luiz Gustavo,10000000,29,VfL Wolfsburg,1.Bundesliga,Marseille,12000000.0,10471,36,Brazil,Brazil,Midfield,8,2,7577,23,1,88,88
+Lukasz Fabianski,8000000,33,Swansea,Championship,West Ham,5000000.0,29692,379,Poland,Poland,Goalkeeper,0,0,6840,0,0,76,76
+Lukasz Skorupski,9000000,27,AS Roma,Serie A,Bologna,7000000.0,80894,1025,Poland,Poland,Goalkeeper,0,0,3690,1,0,41,41
+Mahmoud Dahoud,12000000,21,Bor. M'gladbach,1.Bundesliga,Bor. Dortmund,15000000.0,191422,16,Syria,Germany,Midfield,1,6,3067,8,0,56,56
+Maicon,7500000,28,São Paulo,Série A,Galatasaray,8000000.0,70484,589,Brazil,Brazil,Attack,12,6,7490,18,0,93,93
+Maicon,7500000,28,São Paulo,Série A,Galatasaray,8000000.0,84695,141,Brazil,Brazil,Defender,12,6,7490,18,0,93,93
+Majeed Waris,6000000,26,FC Lorient,Ligue 2,FC Porto,2500000.0,146805,667,Ghana,Ghana,Attack,5,6,2484,5,0,41,41
+Malcom,41000000,21,G. Bordeaux,Ligue 1,FC Barcelona,45000000.0,323704,964,Brazil,Brazil,Attack,16,9,4025,2,0,60,60
+Mamadou Sakho,28200000,27,Liverpool,Premier League,Crystal Palace,15000000.0,47713,969,France,France,Defender,1,2,4107,4,0,47,47
+Manuel Akanji,21500000,22,FC Basel,Super League,Bor. Dortmund,5000000.0,284730,16,Switzerland,Switzerland,Defender,1,1,4218,7,0,48,48
+Marc Bartra,10500000,27,Bor. Dortmund,1.Bundesliga,Real Betis,15000000.0,99922,150,Spain,Spain,Defender,6,1,6842,13,0,82,82
+Marc Muniesa,5000000,26,Stoke City,Championship,Girona FC,2500000.0,74228,12321,Spain,Spain,Defender,0,1,3027,8,0,38,38
+Marcel Tisserand,7000000,25,FC Ingolstadt,2.Bundesliga,VfL Wolfsburg,7500000.0,170463,36,France,DR Congo,Defender,1,1,2497,7,0,30,30
+Marcelo,7000000,30,Besiktas,Süper Lig,Olympique Lyon,6500000.0,190185,2995,Brazil,Brazil,Defender,13,19,17118,37,3,198,198
+Marcelo,7000000,30,Besiktas,Süper Lig,Olympique Lyon,6500000.0,52920,1041,Brazil,Brazil,Defender,13,19,17118,37,3,198,198
+Marcelo,7000000,30,Besiktas,Süper Lig,Olympique Lyon,6500000.0,44501,418,Brazil,Brazil,Defender,13,19,17118,37,3,198,198
+Marcelo Saracchi,12000000,20,River Plate,Primera División,RB Leipzig,4500000.0,373916,23826,Uruguay,Uruguay,Defender,0,1,1402,5,1,20,20
+Marco Benassi,10000000,22,Torino,Serie A,Fiorentina,9500000.0,201040,430,Italy,Italy,Midfield,14,5,5574,13,1,73,73
+Marco Carraro,5000000,20,Inter,Serie A,Atalanta,800000.0,297630,800,Italy,Italy,Midfield,0,0,90,0,0,1,1
+Marco Tumminello,5000000,19,AS Roma,Serie A,Atalanta,1000000.0,315850,800,Italy,Italy,Attack,3,1,213,2,0,13,13
+Mario Lemina,17000000,23,Juventus,Serie A,Southampton,7500000.0,170934,417,Gabon,Gabon,Midfield,2,2,3516,7,0,48,48
+Marius Wolf,5000000,23,E. Frankfurt,1.Bundesliga,Bor. Dortmund,10000000.0,193900,16,Germany,Germany,Attack,7,10,4021,5,1,56,56
+Marko Arnautovic,22300000,28,Stoke City,Premier League,West Ham,15000000.0,41384,1025,Austria,Austria,Attack,21,12,4453,8,1,63,63
+Marko Rog,13000000,21,Dinamo Zagreb,1.HNL,SSC Napoli,10000000.0,317482,1390,Croatia,Croatia,Midfield,2,1,1426,12,0,61,61
+Martin Braithwaite,11300000,26,Toulouse,Ligue 1,Middlesbrough,7500000.0,95732,131,Denmark,Denmark,Attack,9,10,2642,8,0,37,37
+Martin Terrier,11000000,20,LOSC Lille,Ligue 1,Olympique Lyon,12000000.0,442891,273,France,France,Attack,12,3,3310,6,0,60,60
+Mateo Musacchio,18000000,26,Villarreal CF,LaLiga,AC Milan,18000000.0,45653,398,Argentina,Argentina,Defender,2,2,4626,8,0,54,54
+Matheus Cunha,15000000,19,FC Sion,Super League,RB Leipzig,1500000.0,517894,13,Brazil,Brazil,Attack,9,2,1957,3,0,39,39
+Matthias Ginter,17000000,23,Bor. Dortmund,1.Bundesliga,Bor. M'gladbach,15000000.0,124502,18,Germany,Germany,Defender,7,2,5890,4,0,66,66
+Mattia De Sciglio,12000000,24,AC Milan,Serie A,Juventus,8500000.0,88682,506,Italy,Italy,Defender,1,1,3715,4,0,48,48
+Mattia Perin,12000000,25,Genoa,Serie A,Juventus,16000000.0,110923,506,Italy,Italy,Goalkeeper,0,0,4260,2,0,47,47
+Maximilian Philipp,20000000,23,SC Freiburg,1.Bundesliga,Bor. Dortmund,15000000.0,143891,82,Germany,Germany,Attack,11,7,2677,0,0,51,51
+Maycon,6600000,20,Corinthians,Série A,Shakhtar D.,5000000.0,421935,660,Brazil,Brazil,Midfield,5,3,1655,5,0,28,28
+Medhi Benatia,17000000,30,Bayern Munich ,1.Bundesliga,Juventus,15000000.0,45124,6646,France,Morocco,Defender,4,0,3178,14,0,38,38
+Michael Keane,28500000,24,Burnley,Premier League,Everton,18000000.0,118534,29,England,England,Defender,2,3,6265,5,0,71,71
+Miha Mevlja,8000000,27,Rostov,Premier Liga,Zenit S-Pb,4000000.0,100160,11282,Jugoslawien (SFR),Slovenia,Defender,3,0,4683,7,1,56,56
+Mikel Merino,12000000,22,Newcastle,Premier League,Real Sociedad,10000000.0,338424,681,Spain,Spain,Midfield,10,12,7088,28,0,112,112
+Mikel Merino,7000000,22,Bor. Dortmund,1.Bundesliga,Newcastle,10000000.0,338424,681,Spain,Spain,Midfield,10,12,7088,28,0,112,112
+Milan Skriniar,27000000,22,Sampdoria,Serie A,Inter,7000000.0,204069,46,Slovakia,Slovakia,Defender,4,2,7817,11,0,86,86
+Mitchell Weiser,12000000,24,Hertha BSC,1.Bundesliga,Bay. Leverkusen,12000000.0,119211,15,Germany,Germany,Defender,4,7,5590,9,0,72,72
+Mohamed Elyounoussi,18000000,23,FC Basel,Super League,Southampton,8500000.0,186644,180,Morocco,Norway,Attack,0,0,880,0,0,17,17
+Mohamed Salah,42000000,25,AS Roma,Serie A,Liverpool,35000000.0,148455,31,Egypt,Egypt,Attack,70,26,8351,3,0,102,102
+Mouctar Diakhaby,15000000,21,Olympique Lyon,Ligue 1,Valencia CF,10000000.0,346289,1049,France,France,Defender,5,1,4016,15,0,55,55
+Nabil Bentaleb,19000000,22,Spurs,Premier League,FC Schalke 04,18000000.0,245537,33,France,Algeria,Midfield,12,4,3629,9,1,53,53
+Nemanja Maksimovic,5000000,23,Valencia CF,LaLiga,Getafe CF,5000000.0,273152,3709,Yugoslavia (Republic),Serbia,Midfield,2,1,4531,6,0,61,61
+Nemanja Matic,44700000,29,Chelsea,Premier League,Man Utd,35000000.0,74683,985,Jugoslawien (SFR),Serbia,Midfield,3,1,6867,18,0,80,80
+Neymar,222000000,25,FC Barcelona,LaLiga,Paris SG,100000000.0,68290,583,Brazil,Brazil,Attack,45,26,4417,12,0,51,51
+Nikola Kalinic,20000000,30,Fiorentina,Serie A,AC Milan,14000000.0,36371,276,Jugoslawien (SFR),Croatia,Attack,10,5,3325,6,0,65,65
+Nikola Maksimovic,20000000,25,Torino,Serie A,SSC Napoli,10000000.0,124715,252,Jugoslawien (SFR),Serbia,Defender,0,2,3489,11,0,43,43
+Nikola Vlasic,10800000,19,Hajduk Split,1.HNL,Everton,4000000.0,293200,379,Croatia,Croatia,Midfield,11,8,4283,5,0,56,56
+Nolito,7000000,30,Man City,Premier League,Sevilla FC,12000000.0,70934,940,Spain,Spain,Attack,10,10,3091,5,0,59,59
+Nordi Mukiele,16000000,20,Montpellier,Ligue 1,RB Leipzig,14000000.0,348026,23826,France,France,Defender,1,2,4695,9,0,64,64
+Nordin Amrabat,8500000,31,Watford,Premier League,Nasr,3000000.0,55619,2441,Netherlands,Morocco,Attack,3,3,2162,8,0,39,39
+Odsonne Edouard,10300000,20,Paris SG,Ligue 1,Celtic,1500000.0,344152,873,French Guiana,France,Attack,30,11,4170,5,0,73,73
+Okay Yokuslu,6000000,24,Trabzonspor,Süper Lig,Celta de Vigo,7500000.0,137616,940,Turkey,Turkey,Midfield,4,3,5001,18,1,62,62
+Oliver Burke,15200000,20,RB Leipzig,1.Bundesliga,West Brom,7000000.0,341317,350,Scotland,Scotland,Attack,5,6,1552,1,0,34,34
+Olivier Giroud,17000000,31,Arsenal,Premier League,Chelsea,20000000.0,82442,5,France,France,Attack,23,10,4053,2,0,84,84
+Omar Colley,7750000,25,KRC Genk,Jupiler Pro League,Sampdoria,5000000.0,174733,1038,The Gambia,The Gambia,Defender,1,0,4375,9,0,50,50
+Omar Mascarell,10000000,25,Real Madrid,LaLiga,FC Schalke 04,8000000.0,142031,1531,Spain,Spain,Midfield,2,2,2346,9,0,31,31
+Pablo Fornals,12000000,21,Málaga CF,LaLiga,Villarreal CF,10000000.0,357885,379,Spain,Spain,Midfield,9,19,6778,10,0,96,96
+Pablo Maffeo,9000000,20,Man City,Premier League,VfB Stuttgart,10000000.0,251876,237,Spain,Spain,Defender,0,1,3404,13,0,43,43
+Panagiotis Retsos,17500000,19,Olympiacos,Super League,Bay. Leverkusen,5000000.0,324351,15,South Africa,Greece,Defender,1,3,2382,10,0,34,34
+Pape Cheikh,10000000,20,Celta de Vigo,LaLiga,Olympique Lyon,800000.0,336828,1041,Senegal,Senegal,Midfield,0,0,562,3,0,18,18
+Patrik Schick,9000000,22,Sampdoria,Serie A,AS Roma,20000000.0,242086,15,Czech Republic,Czech Republic,Attack,8,3,3028,5,0,58,58
+Paulinho,40000000,29,GZ Evergrande,Super League,FC Barcelona,15000000.0,57229,131,Brazil,Brazil,Midfield,90,48,34112,74,0,510,510
+Paulinho,40000000,29,GZ Evergrande,Super League,FC Barcelona,15000000.0,259461,10690,Brazil,Brazil,Attack,90,48,34112,74,0,510,510
+Paulinho,40000000,29,GZ Evergrande,Super League,FC Barcelona,15000000.0,212923,7378,Brazil,Brazil,Midfield,90,48,34112,74,0,510,510
+Paulinho,40000000,29,GZ Evergrande,Super League,FC Barcelona,15000000.0,520492,865,Brazil,Brazil,Defender,90,48,34112,74,0,510,510
+Paulinho,40000000,29,GZ Evergrande,Super League,FC Barcelona,15000000.0,211072,336,Portugal,Portugal,Attack,90,48,34112,74,0,510,510
+Paulinho,40000000,29,GZ Evergrande,Super League,FC Barcelona,15000000.0,85771,979,Portugal,Portugal,Defender,90,48,34112,74,0,510,510
+Paulinho,40000000,29,GZ Evergrande,Super League,FC Barcelona,15000000.0,428791,15,Brazil,Brazil,Attack,90,48,34112,74,0,510,510
+Paulinho,18500000,18,Vasco da Gama,Série A,Bay. Leverkusen,25000000.0,57229,131,Brazil,Brazil,Midfield,90,48,34112,74,0,510,510
+Paulinho,18500000,18,Vasco da Gama,Série A,Bay. Leverkusen,25000000.0,259461,10690,Brazil,Brazil,Attack,90,48,34112,74,0,510,510
+Paulinho,18500000,18,Vasco da Gama,Série A,Bay. Leverkusen,25000000.0,212923,7378,Brazil,Brazil,Midfield,90,48,34112,74,0,510,510
+Paulinho,18500000,18,Vasco da Gama,Série A,Bay. Leverkusen,25000000.0,520492,865,Brazil,Brazil,Defender,90,48,34112,74,0,510,510
+Paulinho,18500000,18,Vasco da Gama,Série A,Bay. Leverkusen,25000000.0,211072,336,Portugal,Portugal,Attack,90,48,34112,74,0,510,510
+Paulinho,18500000,18,Vasco da Gama,Série A,Bay. Leverkusen,25000000.0,85771,979,Portugal,Portugal,Defender,90,48,34112,74,0,510,510
+Paulinho,18500000,18,Vasco da Gama,Série A,Bay. Leverkusen,25000000.0,428791,15,Brazil,Brazil,Attack,90,48,34112,74,0,510,510
+Pedro Rocha,12000000,22,Grêmio,Série A,Spartak Moscow,1500000.0,362844,232,Brazil,Brazil,Attack,1,2,740,0,0,19,19
+Philippe Coutinho,125000000,25,Liverpool,Premier League,FC Barcelona,90000000.0,80444,131,Brazil,Brazil,Midfield,32,20,6341,3,0,96,96
+Pierre Kunde,7500000,22,Atlético Madrid,LaLiga,1.FSV Mainz 05,2000000.0,339829,683,Cameroon,Cameroon,Midfield,0,0,1969,5,0,31,31
+Pietro Iemmello,5000000,26,Sassuolo,Serie A,Benevento,2000000.0,62735,4171,Italy,Italy,Attack,2,1,884,0,0,16,16
+Pietro Pellegri,21000000,16,Genoa,Serie A,Monaco,8000000.0,364133,5,Italy,Italy,Attack,3,0,402,4,0,13,13
+Radja Nainggolan,38000000,30,AS Roma,Serie A,Inter,45000000.0,41982,1096,Belgium,Belgium,Midfield,13,14,6023,11,0,78,78
+Ramadan Sobhi,6500000,21,Stoke City,Championship,Huddersfield,7000000.0,312017,1110,Egypt,Egypt,Attack,3,0,1490,2,0,30,30
+Ramiro Funes Mori,9000000,27,Everton,Premier League,Villarreal CF,10000000.0,11111,1050,Argentina,Argentina,Defender,2,2,3656,17,0,46,46
+Raphinha,6500000,21,Vit. Guimarães,Liga NOS,Sporting CP,6500000.0,411295,399,Brazil,Brazil,Attack,25,9,5643,12,0,74,74
+Ricardo Pereira,22000000,24,FC Porto,Liga NOS,Leicester,20000000.0,215876,1003,Portugal,Portugal,Defender,4,14,6315,11,0,74,74
+Riccardo Saponara,9000000,26,FC Empoli,Serie A,Fiorentina,9000000.0,88909,430,Italy,Italy,Midfield,2,9,2066,6,0,44,44
+Richarlison,12400000,20,Fluminense,Série A,Watford,2000000.0,378710,29,Brazil,Brazil,Attack,36,12,11252,18,2,150,150
+Richarlison,39200000,21,Watford,Premier League,Everton,25000000.0,378710,29,Brazil,Brazil,Attack,36,12,11252,18,2,150,150
+Rick Karsdorp,14000000,22,Feyenoord,Eredivisie,AS Roma,9000000.0,205006,12,Netherlands,Netherlands,Defender,0,0,843,2,0,15,15
+Riyad Mahrez,67800000,27,Leicester,Premier League,Man City,50000000.0,171424,281,France,Algeria,Attack,23,21,5210,3,0,77,77
+Riza Durmisi,6500000,24,Real Betis,LaLiga,Lazio,5000000.0,135208,398,Denmark,Denmark,Defender,2,3,2967,8,0,44,44
+Roberto Gagliardini,20000000,23,Atalanta,Serie A,Inter,20000000.0,197471,46,Italy,Italy,Midfield,5,0,3401,13,0,53,53
+Roberto Inglese,10000000,25,Chievo Verona,Serie A,SSC Napoli,4500000.0,159337,130,Italy,Italy,Attack,22,3,4902,6,0,61,61
+Robin Olsen,8500000,28,FC Copenhagen,Superligaen,AS Roma,2500000.0,75458,29,Sweden,Sweden,Goalkeeper,0,0,5828,4,0,65,65
+Rodri,20000000,22,Villarreal CF,LaLiga,Atlético Madrid,25000000.0,357565,281,Spain,Spain,Midfield,4,5,7570,14,0,94,94
+Rodrigo Bentancur,10500000,20,Boca Juniors,Primera División,Juventus,6000000.0,354362,506,Uruguay,Uruguay,Midfield,2,3,3671,15,0,67,67
+Rolando Mandragora,20000000,21,Juventus,Serie A,Udinese Calcio,10000000.0,308279,416,Italy,Italy,Midfield,5,1,6301,17,1,73,73
+Romelu Lukaku,84700000,24,Everton,Premier League,Man Utd,50000000.0,96341,631,Belgium,Belgium,Attack,37,9,6481,9,0,87,87
+Ronaldo Vieira,6500000,20,Leeds,Championship,Sampdoria,2000000.0,434676,1038,Guinea-Bissau,England,Midfield,0,0,678,3,0,15,15
+Roque Mesa,12500000,28,UD Las Palmas,LaLiga,Swansea,12000000.0,202984,366,Spain,Spain,Midfield,6,10,8716,40,0,140,140
+Roque Mesa,6000000,29,Swansea,Championship,Sevilla FC,7000000.0,202984,366,Spain,Spain,Midfield,6,10,8716,40,0,140,140
+Ross Barkley,16900000,24,Everton,Premier League,Chelsea,25000000.0,131978,631,England,England,Midfield,6,6,2723,3,0,48,48
+Rui Fonte,9130000,27,Braga,Liga NOS,Fulham,3000000.0,9335,1465,Portugal,Portugal,Attack,3,0,1009,2,0,22,22
+Ryad Boudebouz,7000000,27,Montpellier,Ligue 1,Real Betis,10000000.0,77826,618,France,Algeria,Midfield,4,5,2858,8,1,52,52
+Sam Clucas,16300000,26,Hull City,Championship,Swansea,2500000.0,122223,2288,England,England,Midfield,3,1,2134,3,0,30,30
+Samuel Gigot,8000000,24,KAA Gent,Jupiler Pro League,Spartak Moscow,6000000.0,276896,232,France,France,Defender,3,4,3805,7,1,44,44
+Sandro Wagner,13000000,30,TSG Hoffenheim,1.Bundesliga,Bayern Munich ,9000000.0,39743,27,Germany,Germany,Attack,16,6,2453,9,0,47,47
+Santiago Arias,11000000,26,PSV Eindhoven,Eredivisie,Atlético Madrid,18000000.0,120443,16795,Colombia,Colombia,Defender,4,8,5532,9,0,67,67
+Serge Aurier,25000000,24,Paris SG,Ligue 1,Spurs,15000000.0,127032,1050,Cote d'Ivoire,Cote d'Ivoire,Defender,2,6,3203,8,0,39,39
+Serge Gnabry,8000000,21,Werder Bremen,1.Bundesliga,Bayern Munich ,15000000.0,159471,27,Germany,Germany,Attack,23,12,4268,2,0,68,68
+Sergi Darder,8000000,24,Olympique Lyon,Ligue 1,Espanyol,11000000.0,142021,714,Spain,Spain,Midfield,6,4,6316,18,0,84,84
+Sidcley,5000000,25,Atlético-PR,Série A,Dynamo Kyiv,4000000.0,330060,1091,Brazil,Brazil,Defender,2,2,1252,1,0,17,17
+Silvan Widmer,4500000,25,Udinese Calcio,Serie A,FC Basel,8500000.0,168989,39,Switzerland,Switzerland,Defender,3,2,1732,2,0,26,26
+Simone Verdi,25000000,25,Bologna,Serie A,SSC Napoli,25000000.0,130360,416,Italy,Italy,Midfield,14,13,3654,3,1,59,59
+Simone Zaza,16000000,26,Juventus,Serie A,Valencia CF,15000000.0,96828,416,Italy,Italy,Attack,18,8,4173,21,1,70,70
+Sofiane Hanni,8000000,27,RSC Anderlecht,Jupiler Pro League,Spartak Moscow,7000000.0,113358,232,France,Algeria,Midfield,14,14,4650,9,0,66,66
+Stevan Jovetic,11000000,27,Inter,Serie A,Monaco,10000000.0,46104,44,Jugoslawien (SFR),Montenegro,Attack,10,3,1309,2,0,26,26
+Stuart Armstrong,7950000,26,Celtic,Premiership,Southampton,2000000.0,130765,180,Scotland,Scotland,Midfield,6,7,3325,2,0,63,63
+Suat Serdar,11000000,21,1.FSV Mainz 05,1.Bundesliga,FC Schalke 04,7500000.0,261905,44,Germany,Germany,Midfield,5,2,4298,10,1,63,63
+Sven Bender,12500000,28,Bor. Dortmund,1.Bundesliga,Bay. Leverkusen,7000000.0,29993,15,Germany,Germany,Midfield,2,1,5247,4,0,66,66
+Terence Kongolo,15000000,23,Feyenoord,Eredivisie,Monaco,10000000.0,152651,931,Switzerland,Netherlands,Defender,2,2,8232,8,0,98,98
+Terence Kongolo,20000000,24,Monaco,Ligue 1,Huddersfield,10000000.0,152651,931,Switzerland,Netherlands,Defender,2,2,8232,8,0,98,98
+Theo Walcott,22500000,28,Arsenal,Premier League,Everton,20000000.0,33713,180,England,England,Attack,13,8,4107,3,0,68,68
+Thiago Maia,14000000,20,Santos FC,Série A,LOSC Lille,3000000.0,294873,1082,Brazil,Brazil,Midfield,0,1,3573,8,0,59,59
+Thiago Mendes,9000000,25,São Paulo,Série A,LOSC Lille,3500000.0,135617,1041,Brazil,Brazil,Midfield,3,7,5290,15,0,65,65
+Thomas Delaney,20000000,26,Werder Bremen,1.Bundesliga,Bor. Dortmund,12000000.0,91849,368,Denmark,Denmark,Midfield,6,12,5940,14,0,74,74
+Thomas Lemar,70000000,22,Monaco,Ligue 1,Atlético Madrid,65000000.0,205562,13,Guadeloupe,France,Midfield,5,13,5173,6,0,76,76
+Tom Cleverley,9300000,27,Everton,Premier League,Watford,8000000.0,73484,1010,England,England,Midfield,2,2,2389,5,0,37,37
+Tom Ince,9100000,25,Derby,Championship,Huddersfield,7000000.0,157368,1110,England,England,Attack,4,0,5070,0,0,70,70
+Tom Ince,11200000,26,Huddersfield,Premier League,Stoke City,8000000.0,157368,1110,England,England,Attack,4,0,5070,0,0,70,70
+Tomas Vaclik,7000000,29,FC Basel,Super League,Sevilla FC,4000000.0,64000,683,CSSR,Czech Republic,Goalkeeper,0,0,4395,1,0,49,49
+Uros Spajic,6000000,25,RSC Anderlecht,Jupiler Pro League,Krasnodar,5000000.0,160222,16704,Yugoslavia (Republic),Serbia,Defender,1,2,6110,21,0,69,69
+Valentino Lazaro,6500000,22,RB Salzburg,Bundesliga,Hertha BSC,9000000.0,186368,294,Austria,Austria,Defender,5,13,5330,11,0,65,65
+Valon Berisha,7500000,25,RB Salzburg,Bundesliga,Lazio,10000000.0,145115,1421,Sweden,Kosovo,Midfield,0,1,508,0,0,14,14
+Vicente Iborra,15000000,29,Sevilla FC,LaLiga,Leicester,9000000.0,65467,1050,Spain,Spain,Midfield,9,4,4136,9,0,58,58
+Vincenzo Grifo,5500000,25,Bor. M'gladbach,1.Bundesliga,TSG Hoffenheim,7500000.0,185077,60,Germany,Italy,Attack,7,9,2676,1,0,44,44
+Vitinho,10000000,24,CSKA Moscow,Premier Liga,Flamengo,8000000.0,213605,2410,Brazil,Brazil,Attack,11,6,3428,6,0,52,52
+Vitinho,10000000,24,CSKA Moscow,Premier Liga,Flamengo,8000000.0,468249,520,Brazil,Brazil,Defender,11,6,3428,6,0,52,52
+Vitolo,36000000,27,Sevilla FC,LaLiga,Atlético Madrid,25000000.0,67082,3709,Spain,Spain,Attack,5,5,2967,3,1,62,62
+Vitor Hugo,8000000,26,Palmeiras,Série A,Fiorentina,4500000.0,149752,449,Brazil,Brazil,Defender,1,1,3983,12,1,54,54
+Wahbi Khazri,7000000,27,Sunderland,League One,Saint-Étienne,10000000.0,103565,618,France,Tunisia,Attack,22,8,4919,21,1,58,58
+Walace,6000000,23,Hamburger SV,2.Bundesliga,Hannover 96,4500000.0,323954,410,Brazil,Brazil,Midfield,2,3,3587,9,0,47,47
+Wanderson,8000000,22,RB Salzburg,Bundesliga,Krasnodar,2750000.0,56643,121,Brazil,Brazil,Attack,13,10,7323,9,0,114,114
+Wanderson,8000000,22,RB Salzburg,Bundesliga,Krasnodar,2750000.0,153108,3999,Brazil,Brazil,Attack,13,10,7323,9,0,114,114
+Wanderson,8000000,22,RB Salzburg,Bundesliga,Krasnodar,2750000.0,236202,16704,Brazil,Brazil,Attack,13,10,7323,9,0,114,114
+Wendel,7500000,20,Fluminense,Série A,Sporting CP,7500000.0,499721,964,Brazil,Brazil,Midfield,2,4,2236,5,0,32,32
+Wesley Hoedt,16400000,23,Lazio,Serie A,Southampton,7500000.0,253765,58,Netherlands,Netherlands,Defender,0,1,4583,12,0,51,51
+Wilfried Bony,13000000,28,Man City,Premier League,Swansea,18000000.0,81808,2288,Cote d'Ivoire,Cote d'Ivoire,Attack,2,0,785,2,0,16,16
+Will Hughes,9100000,22,Derby,Championship,Watford,8000000.0,207014,873,England,England,Midfield,5,8,3526,5,0,50,50
+Willem Geubbels,20000000,16,Olympique Lyon,Ligue 1,Monaco,6000000.0,463620,995,France,France,Attack,0,0,83,0,0,4,4
+William Carvalho,20000000,26,Sporting CP,Liga NOS,Real Betis,25000000.0,100131,150,Angola,Portugal,Midfield,1,6,6704,16,0,80,80
+Willy Boly,12000000,27,FC Porto,Liga NOS,Wolves,5000000.0,142310,543,France,Cote d'Ivoire,Defender,4,0,3259,2,1,37,37
+Wojciech Szczesny,12200000,27,Arsenal,Premier League,Juventus,17000000.0,44058,506,Poland,Poland,Goalkeeper,0,0,5491,1,0,62,62
+Wout Weghorst,10500000,25,AZ Alkmaar,Eredivisie,VfL Wolfsburg,7000000.0,228645,82,Netherlands,Netherlands,Attack,45,15,6420,12,0,73,73
+Xherdan Shaqiri,14700000,26,Stoke City,Championship,Liverpool,18000000.0,86792,1041,Jugoslawien (SFR),Switzerland,Attack,14,12,4389,7,0,66,66
+Yannick Carrasco,30000000,24,Atlético Madrid,LaLiga,DL Yifang,40000000.0,140776,13,Belgium,Belgium,Attack,4,7,1461,4,0,28,28
+Yerry Mina,11800000,23,Palmeiras,Série A,FC Barcelona,9000000.0,289446,29,Colombia,Colombia,Defender,1,1,1269,5,0,19,19
+Youri Tielemans,25000000,20,RSC Anderlecht,Jupiler Pro League,Monaco,22000000.0,249565,1003,Belgium,Belgium,Midfield,9,7,5283,12,0,71,71
+Yuning Zhang,7200000,20,Vitesse,Eredivisie,West Brom,700000.0,264429,1268,China,China,Attack,0,0,117,0,0,6,6
+Yuri Berchiche,16000000,27,Real Sociedad,LaLiga,Paris SG,10000000.0,61812,621,Spain,Spain,Defender,8,8,10388,24,0,122,122
+Yuri Berchiche,24000000,28,Paris SG,Ligue 1,Athletic Bilbao,17000000.0,61812,621,Spain,Spain,Defender,8,8,10388,24,0,122,122
+Yuya Osako,4500000,28,1. FC Köln,2.Bundesliga,Werder Bremen,4500000.0,108650,86,Japan,Japan,Attack,11,6,3780,6,0,55,55
+Yves Bissouma,16900000,21,LOSC Lille,Ligue 1,Brighton,8000000.0,410425,1237,Cote d'Ivoire,Mali,Midfield,2,1,3414,9,0,53,53
+Zakaria Labyad,6000000,25,FC Utrecht,Eredivisie,AFC Ajax,6000000.0,123349,610,Netherlands,Morocco,Midfield,17,14,3603,9,0,53,53
