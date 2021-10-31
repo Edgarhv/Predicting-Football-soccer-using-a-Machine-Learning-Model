@@ -48,3 +48,9 @@ Source:https://www.kaggle.com/davidcariboo/player-scores?select=players.csv
 * Minute played
 * Date of birth
 * Position
+
+# Machine Learning Model
+
+We used a multiple linear regression analysis because the multiple regression model not only helps us to make predictions about the data but also can help us to identify the variables that have a significant effect on the dependent variable (market_value). So it was suitable as well as reasonable for us to use here.
+
+### First analysis
