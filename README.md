@@ -9,6 +9,7 @@
 My role is responsible for creating a simple machine learning model. The model that I created helped us as a team to understand where and how a machine learning model will fit into the project. Also, the model gives us more time to work out the specifics related to machine learning in the futures segments.
 
 # First Impression
+We can see that R-squared is equal to 0.691, which means that the regression equation can explain the 69.1% variation in player value.
 
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/718e428415bb97be370d9682df8f0e11957c2468/Images/img_segment1.png)
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/718e428415bb97be370d9682df8f0e11957c2468/Images/img_segment1.2.png)
