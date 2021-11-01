@@ -10,4 +10,5 @@ My role is responsible for creating a simple machine learning model. The model t
 
 # First Impression
 
+![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/718e428415bb97be370d9682df8f0e11957c2468/Images/img_segment1.png)
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/718e428415bb97be370d9682df8f0e11957c2468/Images/img_segment1.2.png)
