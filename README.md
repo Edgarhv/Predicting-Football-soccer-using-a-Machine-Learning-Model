@@ -12,3 +12,5 @@ My role is responsible for creating a simple machine learning model. The model t
 
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/718e428415bb97be370d9682df8f0e11957c2468/Images/img_segment1.png)
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/718e428415bb97be370d9682df8f0e11957c2468/Images/img_segment1.2.png)
+
+![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/ab986e3d2b3c643975ecc26a4bba3ed6c069801c/Images/Dumies.png)
