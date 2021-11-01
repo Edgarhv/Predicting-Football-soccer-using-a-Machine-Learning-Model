@@ -14,3 +14,7 @@ My role is responsible for creating a simple machine learning model. The model t
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/718e428415bb97be370d9682df8f0e11957c2468/Images/img_segment1.2.png)
 
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/ab986e3d2b3c643975ecc26a4bba3ed6c069801c/Images/Dumies.png)
+
+### model settings  
+
+I will add the variable position, and then this position variable will treat as a dummy variable. The midfielder will be labeled as 1; Forward will be labeled as 2; Goalkeeper will be labeled as 3; Defender will be labeled as.
