@@ -43,6 +43,8 @@ Source:https://www.kaggle.com/vardan95ghazaryan/top-250-football-transfers-from-
 - Data Anlysis
 
  This dataset aims to present up-to-date football data down to the level of performance of the players.
+ 
+ We selected 10 independent variables and one dependent variable of the season 2018 to 2019. The independent variables are divided into three categories: physical data of the players, performance data of the players, and the ranking of the players club.
 
 # Potential Features and Target Variable
 
