@@ -7,3 +7,6 @@
 ##### Source:https://gfycat.com/blaringaccuratearcticfox
 
 My role is responsible for creating a simple machine learning model. The model that I created helped us as a team to understand where and how a machine learning model will fit into the project. Also, the model gives us more time to work out the specifics related to machine learning in the futures segments.
+
+# First Impression
+
