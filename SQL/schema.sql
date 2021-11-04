@@ -106,7 +106,7 @@ CREATE TABLE unique_player_market_values (
 	 games INT NOT NULL,
 	 goals INT NOT NULL,
 	 assists INT NOT NULL,
-	 minutes_played INT NOT NULL,
+	 hours_played DEC NOT NULL,
 	 yellow_cards INT NOT NULL,
 	 red_cards INT NOT NULL,
 	 transfer_fee INT NOT NULL,
