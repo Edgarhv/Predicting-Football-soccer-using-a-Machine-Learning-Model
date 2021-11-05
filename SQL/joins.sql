@@ -1,7 +1,7 @@
 -- Creating player database from 2017 and 2018
 
 -- Perform an INNER JOIN on appearances, games, players and clubs tables
-INSERT INTO players2017and2018
+INSERT INTO players_db
 SELECT p.player_id,
      p.player_name,
      c.club_id,
@@ -16,19 +16,18 @@ SELECT p.player_id,
 	 a.yellow_cards,
 	 a.red_cards,
 	 c.club_name,
-	 c.club_market_value
+	 c.club_market_value,
+	 g.season
 FROM appearances AS a
 INNER JOIN games AS g 
 	ON a.game_id=g.game_id
 INNER JOIN players as p
 	ON a.player_id=p.player_id
 INNER JOIN clubs as c
-	ON p.club_id=c.club_id
-WHERE g.season = '2017'
-OR g.season = '2018';
+	ON p.club_id=c.club_id;
 
--- INNER JOIN players2017and2018 with Top250
-INSERT INTO player_market_values
+-- INNER JOIN players_db with Top250 by player name and season
+INSERT INTO player_and_market_values
 SELECT p.player_id,
      t.player_name,
      t.age,
@@ -48,15 +47,15 @@ SELECT p.player_id,
 	 p.red_cards,
 	 t.transfer_fee,
 	 t.market_value,
-	 p.club_market_value
-FROM players2017and2018 as p
+	 p.club_market_value,
+	 p.season
+FROM players_db as p
 INNER JOIN top250 AS t 
 	ON p.player_name=t.player_name
-WHERE t.season = '2017-2018'
-OR t.season = '2018-2019';
+WHERE p.season = t.season;
 
--- Create unique player DB
-INSERT INTO unique_player_market_values
+-- Create unique player DB from all seasons
+INSERT INTO player_market_values
 SELECT p.player_id,
      p.player_name, 
      p.age,
@@ -70,13 +69,14 @@ SELECT p.player_id,
 	 COUNT(p.game_id) AS "games",
 	 SUM(p.goals) AS "goals",
 	 SUM(p.assists) AS "assists",
-	 ROUND(AVG(p.minutes_played),4) AS "average_min_played",
+	 ROUND(SUM(minutes_played)/60.0, 4) AS "hours_played",
 	 SUM(p.yellow_cards) AS "yellow_cards",
 	 SUM(p.red_cards) AS "red_cards",
 	 p.transfer_fee,
 	 p.market_value,
-	 p.club_market_value
-FROM player_market_values as p
+	 p.club_market_value,
+     p.season
+FROM player_and_market_values as p
 GROUP BY p.player_name, 
 	 p.player_id, 
 	 p.age, 
@@ -89,5 +89,6 @@ GROUP BY p.player_name,
 	 p.player_position,
 	 p.transfer_fee,
 	 p.market_value,
-	 p.club_market_value
+	 p.club_market_value,
+     p.season
 ORDER BY market_value DESC;
