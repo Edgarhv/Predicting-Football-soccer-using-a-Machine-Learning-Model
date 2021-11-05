@@ -48,27 +48,28 @@ CREATE TABLE Top250 (
 	 season VARCHAR(40) NOT NULL
 );
 
--- Create players from 2017 and 2018 table
-CREATE TABLE players2017and2018 (
-	 player_id INT NOT NULL,
+-- Create players db all years
+CREATE TABLE players_db(
+     player_id INT NOT NULL,
      player_name VARCHAR(40) NOT NULL,
      club_id INT NOT NULL,
-	 country_of_birth VARCHAR(40) NOT NULL,
-	 country_of_citizenship VARCHAR(40) NOT NULL,
-	 player_position VARCHAR(40) NOT NULL,
-	 game_id INT NOT NULL,
-	 appearance_id VARCHAR(40),
-	 goals INT NOT NULL,
-	 assists INT NOT NULL,
-	 minutes_played INT NOT NULL,
-	 yellow_cards INT NOT NULL,
-	 red_cards INT NOT NULL,
-	 club_name VARCHAR(40) NOT NULL,
-	 club_market_value INT NOT NULL,
+     country_of_birth VARCHAR(40) NOT NULL,
+     country_of_citizenship VARCHAR(40) NOT NULL,
+     player_position VARCHAR(40) NOT NULL,
+     game_id INT NOT NULL,
+     appearance_id VARCHAR(40) NOT NULL,
+     goals INT NOT NULL,
+     assists INT NOT NULL,
+     minutes_played INT NOT NULL,
+     yellow_cards INT NOT NULL,
+     red_cards INT NOT NULL,
+     club_name VARCHAR(40) NOT NULL,
+     club_market_value INT NOT NULL,
+     season INT NOT NULL
 );
 
--- Adding market values to players in seasons 2017 and 2018
-CREATE TABLE player_market_values (
+-- Adding market values to players in all seasons
+CREATE TABLE player_and_market_values (
 	 player_id INT NOT NULL,
      player_name VARCHAR(40) NOT NULL,
      age INT NOT NULL,
@@ -88,11 +89,12 @@ CREATE TABLE player_market_values (
 	 red_cards INT NOT NULL,
 	 transfer_fee INT NOT NULL,
 	 market_value INT NOT NULL,
-	 club_market_value INT NOT NULL
+	 club_market_value INT NOT NULL,
+	 season INT NOT NULL
 );
 
--- Unique market values to players in seasons 2017 and 2018
-CREATE TABLE unique_player_market_values (
+-- Unique market values to players in all season with performance included
+CREATE TABLE player_market_values (
 	 player_id INT NOT NULL,
      player_name VARCHAR(40) NOT NULL,
      age INT NOT NULL,
@@ -106,10 +108,11 @@ CREATE TABLE unique_player_market_values (
 	 games INT NOT NULL,
 	 goals INT NOT NULL,
 	 assists INT NOT NULL,
-	 minutes_played INT NOT NULL,
+	 hours_played DEC NOT NULL,
 	 yellow_cards INT NOT NULL,
 	 red_cards INT NOT NULL,
 	 transfer_fee INT NOT NULL,
 	 market_value INT NOT NULL,
-	 club_market_value INT NOT NULL
+	 club_market_value INT NOT NULL,
+     season INT NOT NULL
 );
