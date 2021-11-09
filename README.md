@@ -36,9 +36,15 @@ Develop an optimal model using Linear regression to predict the performance of t
 
 Source:https://www.kaggle.com/davidcariboo/player-scores?select=players.csv
 
+2018 Summer window transfer.The dataset of top 250 most expensive football transfers from season 2000-2001 until 2018-2019.
+
+Source:https://www.kaggle.com/vardan95ghazaryan/top-250-football-transfers-from-2000-to-2018
+
 - Data Anlysis
 
  This dataset aims to present up-to-date football data down to the level of performance of the players.
+ 
+ We selected 10 independent variables and one dependent variable of the season 2018 to 2019. The independent variables are divided into three categories: physical data of the players, performance data of the players, and the ranking of the players club.
 
 # Potential Features and Target Variable
 
@@ -56,5 +62,15 @@ We used a multiple linear regression analysis because the multiple regression mo
 Source: https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/db3a093e1ffb48e24f918146f414501d6cdadba9/FutPlayers_PredictValue.ipynb
 ### First analysis
 
+-We can see that R-squared is equal to 0.691, which means that the regression equation can explain the 69.1% variation in player value.
  ![img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/f61047a04885a3b0895896cc7e75782d7a663c87/Images/img_segment1.png)
  ![img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/e3ae7d7565e80f7a28e18a2581de69f59f705117/Images/img_segment1.2.png)
+
+# Role Distribution
+
+This week, each team member chose a shape, and We knew that each shape was responsible for a specific task. Also, We chose from the square, circle, triangle, and X.  Finally, We chose a figure concerning our strengths and with the help of the documentation on canvas.
+
+We created a page where we can edit code all together at the same time and this is how we started to work. Also, with the help of other technologies such as WhatsApp we have and create good communication. 
+https://deepnote.com/project/Untitled-Python-Project-eAGO52SQT5SsuFcbuPwvtw/%2FUntitled.ipynb
+
+
