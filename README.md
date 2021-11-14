@@ -7,6 +7,10 @@
 #### Source:https://gfycat.com/compassionaterespectfulblesbok-soccer-world-cup-football-sports
 
 In this Project, using multiple linear regression are being estimated market values of the football players in all European teams in the 2018-2019 season.Players from European League will be examined, and we will show the most and the least affecting factors for the market value.
+# Link to Google Slides Presentation
+[Presentation_Team3](https://docs.google.com/presentation/d/1ABp-GkqQUZYdRsoX6pAX-By1u8ZcKY6oNnCJunGCxJk/edit?usp=sharing)
+# Link to Tableau Dashboard
+[Football_dashboard](https://public.tableau.com/views/Football_dashboard/PlayersperSeason?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
 # The reason why we selected this topic?
 
@@ -54,6 +58,67 @@ Source:https://www.kaggle.com/vardan95ghazaryan/top-250-football-transfers-from-
 * Minute played
 * Date of birth
 * Position
+
+# Database
+In order to obtain our target values for our model, we needed to join multiple datasets with information from the players club, games and player market values, we joined our datasets in SQL as shown in our ERD below to:
+
+<p align="center">
+  <img src="./Images/DB_diagram/ERD.PNG" alt="Sublime's custom image"/>
+</p>
+
+After joining the datasets we obtained a table with <code>19,189</code> rows containing the player name with multiple appearances and games. In order to reduce the amount of rows we obtained the performance of each player by performing the next operations:
+* <code>COUNT</code> the number of <code>games</code>
+* <code>SUM</code> the number of <code>goals</code>
+* <code>SUM</code> the number of <code>assists</code>
+* <code>SUM</code> the number of <code>minutes_played</code> and transform them into <code>hours_played</code>
+* <code>SUM</code> of <code>yellow_cards</code>
+* <code>SUM</code> of <code>red_cards</code>
+
+After obtaining the performance of each player in all games of every season from 2014 to 2018, we obtained a database of 710 unique players from all the available seasons.
+In order to load the data to the cloud to make it more available and easier to access we created connected our final database from PostgreSQL with Heroku as shown in the images below:
+
+Heroku Connection    |  Database Credentials  
+:-------------------------:|:-------------------------:
+![Time original code](./Images/Heroku_connection.PNG)    | ![Time refactored code](./Images/Heroku_database_credentials.png)
+
+By loading the data into our Heroku database we can access the data by using the credentials of the database including the password. The database can be filtered by an SQL query as shown in the code below:
+
+          from getpass import getpass
+          password = getpass('Enter database password')
+
+          connection = psycopg2.connect(user="azcaqpdjrciaow",
+                                                password=password,
+                                                host="ec2-34-226-18-183.compute-1.amazonaws.com",
+                                                port="5432",
+                                                database="d7m85rf8c5rhv5")
+          cursor = connection.cursor()
+          postgreSQL_select_Query = "select * from player_market_values where season = 2018 or season = 2017"
+
+          cursor.execute(postgreSQL_select_Query)
+          print("Loading data from Heroku")
+
+          data = cursor.fetchall()
+          df = pd.DataFrame(data, columns=['player_id', 'player_name', 'age', 'club_id', \
+                                                                  'team_from', 'league_from', 'team_to', 'country_of_birth', \
+                                                                  'country_of_citizenship', 'player_position', 'games', 'goals', \
+                                                                  'assists', 'hours_played', 'yellow_cards', 'red_cards', 'transfer_fee', \
+                                                                  'market_value', 'club_market_value', 'season'])
+          Football_df = df.drop(columns=['player_id', 'player_name', 'club_id', 'team_from', 'league_from', 'team_to', 'country_of_birth', 'country_of_citizenship', 'season'])
+          Football_df
+              
+The database is filtered by the most recent seasons <code>2017</code> and <code>2018</code> and the next columns are mantained:
+* age
+* player_position
+* games
+* goals
+* assists
+* hours_played
+* yellow_cards
+* red_cards
+* transfer_fee
+* market_value
+* club_market_value
+* season
 
 # Machine Learning Model
 
