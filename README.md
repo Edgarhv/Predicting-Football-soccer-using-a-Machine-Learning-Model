@@ -22,6 +22,7 @@ My role is responsible for creating a simple machine learning model. The model t
 
 
 # Segment 2
+![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/58a35b17f9209e3cde206a83d8f0ea959071aa8a/Images/correlation_heatmap.png)
 
 ### Link to Google Slides Presentation
 [Presentation_Team3](https://docs.google.com/presentation/d/1ABp-GkqQUZYdRsoX6pAX-By1u8ZcKY6oNnCJunGCxJk/edit?usp=sharing)
