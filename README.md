@@ -125,11 +125,62 @@ The database is filtered by the most recent seasons <code>2017</code> and <code>
 We used a multiple linear regression analysis because the multiple regression model not only helps us to make predictions about the data but also can help us to identify the variables that have a significant effect on the dependent variable (market_value). So it was suitable as well as reasonable for us to use here.
 
 Source: https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/db3a093e1ffb48e24f918146f414501d6cdadba9/FutPlayers_PredictValue.ipynb
-### First analysis
+### First Analysis
 
 -We can see that R-squared is equal to 0.691, which means that the regression equation can explain the 69.1% variation in player value.
  ![img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/f61047a04885a3b0895896cc7e75782d7a663c87/Images/img_segment1.png)
  ![img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/e3ae7d7565e80f7a28e18a2581de69f59f705117/Images/img_segment1.2.png)
+ 
+### Second Analysis
+After defining the variables that we were going to use in our model we needed to encode categorical variables in our data. We used <code>One Hot Encoder</code> from sklearn to encode the <code>player_position</code> variable, obtaininga number per position of a player as shown below:
+* <code>Attack</code> as **1000** and there are  <code>124</code> players with this position.
+* <code>Defender</code> as **0100** and there are  <code>106</code> players with this position.
+* <code>Goalkeeper</code> as **0010** and there are  <code>101</code> players with this position.
+* <code>Midfield</code> as **0001** and there are only  <code>17</code> players with this position.
+
+Following this process we created a correlation map in order to determine which variables have a higher impact in our target value (market_value).
+
+<p align="center">
+  <img src="./Images/corr_map.PNG" alt="Sublime's custom image"/>
+</p>
+
+The variables related with player's market values are:
+* transfer_fee
+* club_market_value
+* assists
+* goals
+* games
+* hours_played
+
+Afterwards we used <code>PyCaret</code> to test our data with multiple regression model and compare their performances as shown in the image below:
+
+<p align="center">
+  <img src="./Images/Regression Models/models_ranked.PNG" alt="Sublime's custom image"/>
+</p>
+
+As we can see, the highest ranked model is the Orthogonal Matching Pursuit regression model that has a mean **R2** of <code>0.6747</code>, a **RMSLE** of <code>0.6583</code> and a **MAPE** of <code>0.7881</code> and then we tuned this model in order to have a higher performance as shown below_
+
+<p align="center">
+  <img src="./Images/Regression Models/opm_table.PNG" alt="Sublime's custom image"/>
+</p>
+
+Obtaining a model with an **R2** ranging from <code>0.4195</code> to <code>0.8618</code>
+
+Other models where tested and compared, below we have the tables of the <code>Gradient Boosting Regressor</code> and <code>Linear Regression</code> models.
+
+Gradient Boosting Regressor    |  Linear Regression 
+:-------------------------:|:-------------------------:
+![Time original code](./Images/Regression_Models/gbr_table.PNG)    | ![Time refactored code](./Images/Regression_Models/lr_table.PNG)
+
+### Residuals Plots
+Gradient Boosting Regressor    |  Linear Regression   |  Orthogonal Matching Pursuit
+:-------------------------:|:-------------------------:|:-------------------------:
+![Time original code](./Images/Regression_Models/gbr_residuals.PNG)    | ![Time refactored code](./Images/Regression_Models/lr_residuals.PNG) | ![Time refactored code](./Images/Regression_Models/opm_residuals.PNG)
+
+### Error Plots
+Gradient Boosting Regressor    |  Linear Regression   |  Orthogonal Matching Pursuit
+:-------------------------:|:-------------------------:|:-------------------------:
+![Time original code](./Images/Regression_Models/gbr_error.PNG)    | ![Time refactored code](./Images/Regression_Models/lr_error.PNG) | ![Time refactored code](./Images/Regression_Models/opm_error.PNG)
 
 # Role Distribution
 
