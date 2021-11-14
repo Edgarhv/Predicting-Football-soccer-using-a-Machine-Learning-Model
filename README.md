@@ -155,13 +155,13 @@ The variables related with player's market values are:
 Afterwards we used <code>PyCaret</code> to test our data with multiple regression model and compare their performances as shown in the image below:
 
 <p align="center">
-  <img src="./Images/Regression Models/models_ranked.PNG" alt="Sublime's custom image"/>
+  <img src="./Images/Regression_Models/models_ranked.PNG" alt="Sublime's custom image"/>
 </p>
 
 As we can see, the highest ranked model is the Orthogonal Matching Pursuit regression model that has a mean **R2** of <code>0.6747</code>, a **RMSLE** of <code>0.6583</code> and a **MAPE** of <code>0.7881</code> and then we tuned this model in order to have a higher performance as shown below_
 
 <p align="center">
-  <img src="./Images/Regression Models/opm_table.PNG" alt="Sublime's custom image"/>
+  <img src="./Images/Regression_Models/opm_table.PNG" alt="Sublime's custom image"/>
 </p>
 
 Obtaining a model with an **R2** ranging from <code>0.4195</code> to <code>0.8618</code>
