@@ -7,8 +7,9 @@
 #### Source:https://gfycat.com/compassionaterespectfulblesbok-soccer-world-cup-football-sports
 
 In this Project, using multiple linear regression are being estimated market values of the football players in all European teams in the 2018-2019 season.Players from European League will be examined, and we will show the most and the least affecting factors for the market value.
-
-### Link to Tableau Dashboard
+# Link to Google Slides Presentation
+[Presentation_Team3](https://docs.google.com/presentation/d/1ABp-GkqQUZYdRsoX6pAX-By1u8ZcKY6oNnCJunGCxJk/edit?usp=sharing)
+# Link to Tableau Dashboard
 [Football_dashboard](https://public.tableau.com/views/Football_dashboard/PlayersperSeason?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
 # The reason why we selected this topic?
