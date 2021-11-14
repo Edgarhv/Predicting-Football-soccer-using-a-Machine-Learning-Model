@@ -19,3 +19,8 @@ My role is responsible for creating a simple machine learning model. The model t
 ### Model settings  
 
 - I will add the variable position, and then this position variable will treat as a dummy variable. The midfielder will be labeled as 1; Forward will be labeled as 2; Goalkeeper will be labeled as 3; Defender will be labeled as.
+
+
+# Segment 2
+
+
