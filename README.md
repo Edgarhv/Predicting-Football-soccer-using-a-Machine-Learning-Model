@@ -81,7 +81,44 @@ Heroku Connection    |  Database Credentials
 :-------------------------:|:-------------------------:
 ![Time original code](./Images/Heroku_connection.PNG)    | ![Time refactored code](./Images/Heroku_database_credentials.png)
 
-By loading the data into our Heroku database we can access the data by using the credentials of the database including the password.
+By loading the data into our Heroku database we can access the data by using the credentials of the database including the password. The database can be filtered by an SQL query as shown in the code below:
+
+          from getpass import getpass
+          password = getpass('Enter database password')
+
+          connection = psycopg2.connect(user="azcaqpdjrciaow",
+                                                password=password,
+                                                host="ec2-34-226-18-183.compute-1.amazonaws.com",
+                                                port="5432",
+                                                database="d7m85rf8c5rhv5")
+          cursor = connection.cursor()
+          postgreSQL_select_Query = "select * from player_market_values where season = 2018 or season = 2017"
+
+          cursor.execute(postgreSQL_select_Query)
+          print("Loading data from Heroku")
+
+          data = cursor.fetchall()
+          df = pd.DataFrame(data, columns=['player_id', 'player_name', 'age', 'club_id', \
+                                                                  'team_from', 'league_from', 'team_to', 'country_of_birth', \
+                                                                  'country_of_citizenship', 'player_position', 'games', 'goals', \
+                                                                  'assists', 'hours_played', 'yellow_cards', 'red_cards', 'transfer_fee', \
+                                                                  'market_value', 'club_market_value', 'season'])
+          Football_df = df.drop(columns=['player_id', 'player_name', 'club_id', 'team_from', 'league_from', 'team_to', 'country_of_birth', 'country_of_citizenship', 'season'])
+          Football_df
+              
+The database is filtered by the most recent seasons <code>2017</code> and <code>2018</code> and the next columns are mantained:
+* age
+* player_position
+* games
+* goals
+* assists
+* hours_played
+* yellow_cards
+* red_cards
+* transfer_fee
+* market_value
+* club_market_value
+* season
 
 # Machine Learning Model
 
