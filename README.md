@@ -26,4 +26,4 @@ My role is responsible for creating a simple machine learning model. The model t
 
 ### Link to Google Slides Presentation
 [Presentation_Team3](https://docs.google.com/presentation/d/1ABp-GkqQUZYdRsoX6pAX-By1u8ZcKY6oNnCJunGCxJk/edit?usp=sharing)
-
+[Web_PageDashboard](https://sites.google.com/view/team3bootcamp/dashboard)
