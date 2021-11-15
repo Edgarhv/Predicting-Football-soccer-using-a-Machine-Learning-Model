@@ -22,8 +22,16 @@ My role is responsible for creating a simple machine learning model. The model t
 
 
 # Segment 2
-![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/58a35b17f9209e3cde206a83d8f0ea959071aa8a/Images/correlation_heatmap.png)
 
+
+After defining the variables that we were going to use in our model we needed to encode categorical variables in our data. We used One Hot Encoder from sklearn to encode the player_position variable, obtaininga number per position of a player as shown below:
+
+Attack as 1000 and there are 124 players with this position.
+Defender as 0100 and there are 106 players with this position.
+Goalkeeper as 0010 and there are 101 players with this position.
+Midfield as 0001 and there are only 17 players with this position.
+![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/58a35b17f9209e3cde206a83d8f0ea959071aa8a/Images/correlation_heatmap.png)
+we created a presentation for the final segment. Also, we develop a dashboard
 ### Link to Google Slides Presentation
 [Presentation_Team3](https://docs.google.com/presentation/d/1ABp-GkqQUZYdRsoX6pAX-By1u8ZcKY6oNnCJunGCxJk/edit?usp=sharing)
 ### Dashboard
