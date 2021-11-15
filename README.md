@@ -22,6 +22,9 @@ Nowadays, FIFA is the most important association that governs football federatio
 - How much does the market value of the players increase on average? 
 - player performance and club rank can make a significant impact on player value.
 
+# Hypothesis
+Player personal information, player performance and club maket value can make a
+significant impact on player value.
 
 # Project Objective & Target Audience
 
