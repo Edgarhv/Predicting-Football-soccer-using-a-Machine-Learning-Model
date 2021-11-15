@@ -193,3 +193,6 @@ We created a page where we can edit code all together at the same time and this 
 https://deepnote.com/project/Untitled-Python-Project-eAGO52SQT5SsuFcbuPwvtw/%2FUntitled.ipynb
 
 
+## Segment 2
+
+During this second segment, we continue to work together to coax a story from your data. We perform more than one analysis on your data during this segment—analyses that help bring together the larger picture and lend strength to the final project.
