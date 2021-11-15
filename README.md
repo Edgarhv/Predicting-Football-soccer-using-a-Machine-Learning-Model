@@ -25,7 +25,7 @@ Nowadays, FIFA is the most important association that governs football federatio
 # Hypothesis
 Player personal information, player performance and club maket value can make a
 significant impact on player value.
-
+ ![img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/32f33f64e289153a488cec046521a8f8557cd2c9/Images/variables%20related.png)
 # Project Objective & Target Audience
 
 Develop an optimal model using Linear regression to predict the performance of the players.
