@@ -23,7 +23,7 @@ My role is responsible for creating a simple machine learning model. The model t
 
 # Segment 2
 
-
+![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/451a020a6d633ba5f215c11b8bb2d33d6f16bd39/Images/descarga.png)
 After defining the variables that we were going to use in our model we needed to encode categorical variables in our data. We used One Hot Encoder from sklearn to encode the player_position variable, obtaininga number per position of a player as shown below:
 
 Attack as 1000 and there are 124 players with this position.
