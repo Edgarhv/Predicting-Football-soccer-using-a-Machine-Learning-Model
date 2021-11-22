@@ -41,3 +41,4 @@ we created a presentation for the final segment. Also, we develop a dashboard
 
 ## Top 3 football players
 
+![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/d8ae8490c325c0272da02425f6ac8477397d35d3/Images/Ney.png)
