@@ -36,3 +36,8 @@ we created a presentation for the final segment. Also, we develop a dashboard
 [Presentation_Team3](https://docs.google.com/presentation/d/1ABp-GkqQUZYdRsoX6pAX-By1u8ZcKY6oNnCJunGCxJk/edit?usp=sharing)
 ### Dashboard
 [Web_PageDashboard](https://sites.google.com/view/team3bootcamp/dashboard)
+
+# Segment 3
+
+## Top 3 football players
+
