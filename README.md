@@ -204,7 +204,7 @@ https://deepnote.com/project/Untitled-Python-Project-eAGO52SQT5SsuFcbuPwvtw/%2FU
 During this second segment, we continue to work together to coax a story from your data. We perform more than one analysis on your data during this segment—analyses that help bring together the larger picture and lend strength to the final project.
 
 ##  Segment 3
-
+In this third segment, We begin to really tie things together. At this point, the machine learning model and database are plugged into the rest of the project, and we see results. We answered the question set out to answer.
 ## Top 3 football players
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/782c742abb7eef76cb856556bceb649d42db6943/Images/cr7.png)
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/d8ae8490c325c0272da02425f6ac8477397d35d3/Images/Ney.png)
