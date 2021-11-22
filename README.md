@@ -61,7 +61,13 @@ Source:https://www.kaggle.com/vardan95ghazaryan/top-250-football-transfers-from-
 * Minute played
 * Date of birth
 * Position
+# Dummie Variable
+We convert the variable " player_position " to dummies:
 
+- Player position: Attack, Encode position: 0
+- Player position: Defender, Encode position: 3
+- Player position: Goalkeeper, Encode position: 2
+- Player position: Midfield, Encode position: 1
 # Database
 In order to obtain our target values for our model, we needed to join multiple datasets with information from the players club, games and player market values, we joined our datasets in SQL as shown in our ERD below to:
 
