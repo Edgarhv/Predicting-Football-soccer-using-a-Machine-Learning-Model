@@ -40,10 +40,10 @@ we created a presentation for the final segment. Also, we develop a dashboard
 # Segment 3
 We convert the variable " player_position " to dummies:
 
-Player position: Attack, Encode position: 0
-Player position: Defender, Encode position: 3
-Player position: Goalkeeper, Encode position: 2
-Player position: Midfield, Encode position: 1	
+- Player position: Attack, Encode position: 0
+- Player position: Defender, Encode position: 3
+- Player position: Goalkeeper, Encode position: 2
+- Player position: Midfield, Encode position: 1	
 
 ## Top 3 football players
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/782c742abb7eef76cb856556bceb649d42db6943/Images/cr7.png)
