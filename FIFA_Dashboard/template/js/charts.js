@@ -2,8 +2,8 @@ function init() {
   // Grab a reference to the dropdown select element
   var selector = d3.select("#selDataset");
 
-  // Use the list of sample names to populate the select options
-  d3.json("data2.json").then((data) => {
+  // Use the list of player names to populate the select options
+  d3.json("data.json").then((data) => {
     var sampleNames = data.player_names;
 
     sampleNames.forEach((sample) => {
@@ -26,32 +26,33 @@ function init() {
 init();
 
 function optionChanged(newSample) {
-  // Fetch new data each time a new sample is selected
+  // Fetch new data each time a new player is selected
   buildMetadata(newSample);
   buildCharts(newSample);
   buildPicture(newSample);
 }
 
 function buildPicture(sample) {
- // var image = d3.select("#img-id");
-
-  d3.json("data2.json").then((data) => {
+  // Show a picture of the selected player
+  d3.json("data.json").then((data) => {
     var metadata = data.market;
-    // Filter the data for the object with the desired sample number
+    // Filter the data for the object with the desired player name
     var resultArray = metadata.filter(sampleObj => sampleObj.player_name == sample);
     var result = resultArray[0];
     console.log(result)
+    // Obtain the img url from the json data
     var photo_url = result.photo_url;
     console.log(photo_url);
+    // Write the url in the src attribute of the image
     var img = document.getElementById("img-id");
     img.src = photo_url;
 });
 }
-// Demographics Panel 
+// Player Info Panel
 function buildMetadata(sample) {
-  d3.json("data2.json").then((data) => {
+  d3.json("data.json").then((data) => {
     var metadata = data.metadata;
-    // Filter the data for the object with the desired sample number
+    // Filter the data for the object with the desired player name
     var resultArray = metadata.filter(sampleObj => sampleObj.player_name == sample);
     var result = resultArray[0];
     console.log(result)
@@ -71,18 +72,18 @@ function buildMetadata(sample) {
   });
 }
 
-// 1. Create the buildCharts function.
+// Create the buildCharts function.
 function buildCharts(sample) {
-  // 2. Use d3.json to load and retrieve the samples.json file 
-  d3.json("data2.json").then((sampledata) => {
-    // 3. Create a variable that holds the samples array. 
+  // Use d3.json to load and retrieve the data.json file 
+  d3.json("data.json").then((sampledata) => {
+    // Create a variable that holds the market array. 
     var samples = sampledata.market;
-    // 4. Create a variable that filters the samples for the object with the desired sample number.
+    // Create a variable that filters the samples for the object with the desired player name.
     var resultArray = samples.filter(sampleObj => sampleObj.player_name == sample);
-    //  5. Create a variable that holds the first sample in the array.
+    // Create a variable that holds the first sample in the array.
     var result = resultArray[0];
     console.log(result);
-    // 6. Create variables that hold the otu_ids, otu_labels, and sample_values.
+    // Create variables that hold market values, year and attributes..
     var market_values = [result.market_2015, result.market_2016, result.market_2017, result.market_2018, result.market_2019];
     console.log(market_values);
     var years = ["2015", "2016", "2017", "2018", "2019"];
@@ -115,56 +116,34 @@ function buildCharts(sample) {
     "Sprint Speed",
     "Shot Power"];
     console.log(attributeNames);
-    //document.getElementById('img_id').setAttribute('src',photo_url);
-    //var sampleVal = result.sample_values.slice(0,10).reverse();
-    //console.log(sampleVal);
 
-    // 7. Create the yticks for the bar chart.
-    // Hint: Get the the top 10 otu_ids and map them in descending order  
-    //  so the otu_ids with the most bacteria are last. 
-    //var otu_top = result.otu_ids.slice(0,10).reverse();
-    //console.log(otu_top)
-    // Get otu ids in the desired format:
-   // var otu_id = otu_top.map(d => "OTU " + d);
-    //console.log(otu_id);
-    // Get the top 10 otu labels
-    //var yticks = resultArray[0].otu_labels.slice(0,10);
-    //console.log(yticks);
-    // 8. Create the trace for the bar chart. 
+    // Create the trace for the line-plot chart. 
     var trace = {
       x: years,
       y: market_values,
-      //text: yticks,
-      //marker: {
-        //color: sampleVal,
-        //colorscale: 'Blues',
-        //reversescale: true,
-      //},
       type:  "scatter"
-      //orientation: "h"
     };
+
     var data = [trace];
     
-    // 9. Create the layout for the bar chart. 
+    // Create the layout for the line-plot chart. 
     var layout = {
       title: "<b>Player Market Values (2015-2019)<b>",
     };
-    // 10. Use Plotly to plot the data with the layout. 
-    Plotly.newPlot("bar", data, layout);
+    // Use Plotly to plot the data with the layout. 
+    Plotly.newPlot("line-plot", data, layout);
 
-    // 1. Create the trace for the bubble chart.
+    // Create the trace for the scatter-polar chart.
    var scatter_data = [
      {
        type: "scatterpolar",
-        //name: "<b>Player Performance<b>",
         r: attributes,
         theta: attributeNames,
-        //marker_line_color="green",
         fill: "toself"
       },
     ];
     
-    // 2. Create the layout for the bubble chart.
+    // Create the layout for the scatter-polar chart.
     var scatterLayout = {
       title: "<b>Player Performance<b>",
       images: [
@@ -180,18 +159,14 @@ function buildCharts(sample) {
           "yanchor": "bottom"
         }
       ],
-      //xaxis: {title: "OTU ID"},
-      //hovermode: 'closest'
     };
     
-    // 3. Use Plotly to plot the data with the layout.
-    Plotly.newPlot("bubble", scatter_data, scatterLayout); 
-
-    //Plotly.newPlot("img_ids", [photo_url])
+    // Use Plotly to plot the data with the layout.
+    Plotly.newPlot("scatter-polar", scatter_data, scatterLayout); 
     
-    // Create the Gauge chart
+    // Create the bar-plot chart
 
-    // 4. Create the trace for the gauge chart.
+    // Create the trace for the bar-plot chart.
     var trace_CR = {
       y: [120000000, 110000000, 100000000, 120000000, 90000000],
       x: ["2015", "2016", "2017", "2018", "2019"],
@@ -224,7 +199,7 @@ function buildCharts(sample) {
       type: "bar"
     };
     
-    // Combining both traces
+    // Combining all traces
     var traceData = [trace_CR, trace_LM, trace_N, trace_LS, trace_M];
 
     // Apply the group barmode to the layout
@@ -233,7 +208,7 @@ function buildCharts(sample) {
       barmode: "group"
     };
 
-    Plotly.newPlot("gauge", traceData, Tlayout);
+    Plotly.newPlot("bar-plot", traceData, Tlayout);
   });
   
 }

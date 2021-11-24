@@ -10,7 +10,7 @@
   ​<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
    
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="template/css/style.css">
 </head>
 
 <body>
@@ -35,26 +35,29 @@
           <div id="sample-metadata" class="panel-body"></div>
         </div>
       </div>
+      <!-- scatter-polar is the polar scatter with the players attributes-->
       <div class="col-md-5">
-        <div id="bubble"></div>
+        <div id="scatter-polar"></div>
       </div>
+       <!-- img from each player from its url -->
       <div class="col-md-3">
         <img id="img-id" src="image.jpg" class="img-fluid img-thumbnail rounded-lg m-3 p-1 border-success">
     </div>
     </div>
+    <!-- line-plot is the graph of market values form 2015-2019 -->
     <div class="row">
       <div class="col-md-6">
-        <div id="bar"></div>
+        <div id="line-plot"></div>
       </div>
-
+    <!-- bar-plot is the graph for comparing player market values form 2015-2019 -->
       <div class="col-md-6">
-        <div id="gauge"></div>
+        <div id="bar-plot"></div>
       </div>
 
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="charts.js"></script>
+  <script src="template/js/charts.js"></script>
   
 
 </body>
