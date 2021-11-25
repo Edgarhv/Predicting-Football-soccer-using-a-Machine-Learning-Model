@@ -37,15 +37,29 @@ Develop an optimal model using Linear regression to predict the performance of t
 
 # Data
 
-- Data Source.
+-Data Source
 
-2021 Football Data clean, structured and automatically updated football data from from transfermarkt
+Name: “Football Data from Transfermarkt”
 
-Source:https://www.kaggle.com/davidcariboo/player-scores?select=players.csv
+Description
 
-2018 Summer window transfer.The dataset of top 250 most expensive football transfers from season 2000-2001 until 2018-2019.
+Clean, structured and automatically-updated football data from Transfermarkt, including:
+* 40,000+ games from many seasons on all major competitions
+* 300+ clubs from those competitions
+* 20,000+ players from those clubs
+* 900,000+ player appearance records from all games
+#### Source: Kaggle:https://www.kaggle.com/davidcariboo/player-scores?select=players.csv
 
-Source:https://www.kaggle.com/vardan95ghazaryan/top-250-football-transfers-from-2000-to-2018
+-Data Source
+
+Name: “Top 250 Football transfers from 2000 to 2018”
+
+Description
+
+The dataset of the 250 most expensive football transfers from season 2000-2001 until 2018-2019. There is a total of 4700 rows and 10 columns in this dataset. The columns contain the following information: the name of each football player, the selling team and league, the league and team where the player is sold, the estimated market value of the player, the actual value of the transfer, the position of the player and season during which the transfer took place.
+#### Source: Kaggle:https://www.kaggle.com/vardan95ghazaryan/top-250-football-transfers-from-2000-to-2018
+
+
 
 - Data Anlysis
 
