@@ -68,6 +68,9 @@ The dataset of the 250 most expensive football transfers from season 2000-2001 u
  We selected 10 independent variables and one dependent variable of the season 2018 to 2019. The independent variables are divided into three categories: physical data of the players, performance data of the players, and the ranking of the players club.
 
 # Potential Features and Target Variable
+We selected 10 independent variables and one dependent variable from players, matches, and team data of European football from 2017 to 2018. The independent variables are divided into three categories: physical data of the players, performance data of the players, and the market of the club. The dependent variable is the players’ market value. After importing the raw data into Python for data cleaning we got a dataset of 348 rows and 11 columns.
+
+## DV= β + β1 A + β2 Pp + β3 G + β4 G + β5 A + β6 Hp + β7 Yc + β8 Rc + β9Tf + β10 Cmv + є
 * Club Market Value
 * Red Cards 
 * Assists
