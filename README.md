@@ -153,10 +153,19 @@ The database is filtered by the most recent seasons <code>2017</code> and <code>
 * season
 
 # Machine Learning Model
-
+###  Method
 We used a multiple linear regression analysis because the multiple regression model not only helps us to make predictions about the data but also can help us to identify the variables that have a significant effect on the dependent variable (market_value). So it was suitable as well as reasonable for us to use here.
 
 Source: https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/db3a093e1ffb48e24f918146f414501d6cdadba9/FutPlayers_PredictValue.ipynb
+
+### PyCaret
+PyCaret is an open-source, low-code machine learning library in Python which automates machine-learning workflows. It is an end-to-end machine learning and model management tool that speeds up the experiment cycle exponentially, making you more productive.
+
+### Extra Tree Regression Model
+Extra Trees is an ensemble machine-learning algorithm that combines the predictions from many decision trees.
+It is related to the widely-used random forest algorithm. It can often achieve a good or better performance than the random forest algorithm, although it uses a simpler algorithm to construct the decision trees used as members of the ensemble.
+Regression: Predictions made by averaging predictions from decision trees.
+
 ### First Analysis
 
 -We can see that R-squared is equal to 0.691, which means that the regression equation can explain the 69.1% variation in player value.
@@ -214,6 +223,14 @@ Gradient Boosting Regressor    |  Linear Regression   |  Orthogonal Matching Pur
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Time original code](./Images/Regression_Models/gbr_error.PNG)    | ![Time refactored code](./Images/Regression_Models/lr_error.PNG) | ![Time refactored code](./Images/Regression_Models/opm_error.PNG)
 
+# Future Iterations
+
+* Incorporate new data
+
+* Divide the data by clusters  (e.g. player position)
+
+* Run the model for a more recent season and compare the results.
+
 # Role Distribution
 
 This week, each team member chose a shape, and We knew that each shape was responsible for a specific task. Also, We chose from the square, circle, triangle, and X.  Finally, We chose a figure concerning our strengths and with the help of the documentation on canvas.
@@ -232,3 +249,4 @@ In this third segment, We begin to really tie things together. At this point, th
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/782c742abb7eef76cb856556bceb649d42db6943/Images/cr7.png)
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/d8ae8490c325c0272da02425f6ac8477397d35d3/Images/Ney.png)
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/67fb0226f59664aa2634f2f59bf0714ff6512581/Images/Messi.png)
+
