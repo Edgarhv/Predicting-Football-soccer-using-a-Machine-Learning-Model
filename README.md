@@ -61,7 +61,7 @@ The dataset of the 250 most expensive football transfers from season 2000-2001 u
 
 
 
-- Data Anlysis
+- Data Analysis
 
  This dataset aims to present up-to-date football data down to the level of performance of the players.
  
