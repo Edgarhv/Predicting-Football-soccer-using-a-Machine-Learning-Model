@@ -49,3 +49,53 @@ We convert the variable " player_position " to dummies:
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/782c742abb7eef76cb856556bceb649d42db6943/Images/cr7.png)
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/d8ae8490c325c0272da02425f6ac8477397d35d3/Images/Ney.png)
 ![Img](https://github.com/Edgarhv/Predicting-Football-soccer-using-a-Machine-Learning-Model/blob/67fb0226f59664aa2634f2f59bf0714ff6512581/Images/Messi.png)
+
+# Segment 4
+# Data
+
+-Data Source
+
+Name: “Football Data from Transfermarkt”
+
+Description
+
+Clean, structured and automatically-updated football data from Transfermarkt, including:
+* 40,000+ games from many seasons on all major competitions
+* 300+ clubs from those competitions
+* 20,000+ players from those clubs
+* 900,000+ player appearance records from all games
+#### Source: Kaggle:https://www.kaggle.com/davidcariboo/player-scores?select=players.csv
+
+-Data Source
+
+Name: “Top 250 Football transfers from 2000 to 2018”
+
+Description
+
+The dataset of the 250 most expensive football transfers from season 2000-2001 until 2018-2019. There is a total of 4700 rows and 10 columns in this dataset. The columns contain the following information: the name of each football player, the selling team and league, the league and team where the player is sold, the estimated market value of the player, the actual value of the transfer, the position of the player and season during which the transfer took place.
+#### Source: Kaggle:https://www.kaggle.com/vardan95ghazaryan/top-250-football-transfers-from-2000-to-2018
+
+
+
+- Data Anlysis
+
+ This dataset aims to present up-to-date football data down to the level of performance of the players.
+ 
+ We selected 10 independent variables and one dependent variable of the season 2018 to 2019. The independent variables are divided into three categories: physical data of the players, performance data of the players, and the ranking of the players club.
+
+# Potential Features and Target Variable
+We selected 10 independent variables and one dependent variable from players, matches, and team data of European football from 2017 to 2018. The independent variables are divided into three categories: physical data of the players, performance data of the players, and the market of the club. The dependent variable is the players’ market value. After importing the raw data into Python for data cleaning we got a dataset of 348 rows and 11 columns.
+
+## DV= β + β1 A + β2 Pp + β3 G + β4 G + β5 A + β6 Hp + β7 Yc + β8 Rc + β9Tf + β10 Cmv + є
+* Club Market Value
+* Red Cards 
+* Assists
+* Age
+* Hours Played
+* Goals
+* Transfer Fee
+* Games
+* Yellow Cards
+* Player Position
+
+### * Dependent Variable :Market value 
