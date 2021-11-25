@@ -68,13 +68,19 @@ The dataset of the 250 most expensive football transfers from season 2000-2001 u
  We selected 10 independent variables and one dependent variable of the season 2018 to 2019. The independent variables are divided into three categories: physical data of the players, performance data of the players, and the ranking of the players club.
 
 # Potential Features and Target Variable
-
-* Appearnece 
-* Goals
+* Club Market Value
+* Red Cards 
 * Assists
-* Minute played
-* Date of birth
-* Position
+* Age
+* Hours Played
+* Goals
+* Transfer Fee
+* Games
+* Yellow Cards
+* Player Position
+
+### * Dependent Variable :Market value 
+
 # Dummie Variable
 We convert the variable " player_position " to dummies:
 
